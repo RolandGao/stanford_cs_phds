@@ -325,9 +325,10 @@ Henry Zhu
 Carolyn Zou
 
 
+prompt: For the following stanford cs phds, find where they attended undergrad. Output a table with two columns: name, school. Avoid citations so that I can easily copy and paste later. Make sure to find everyone's undergrad unless it's impossible. 
 
-For the following stanford cs phds, find where they attended undergrad. Output a table with two columns: name, school. Avoid citations so that I can easily copy and paste later. Make sure to find everyone's undergrad unless it's impossible. 
 
+results:
 
 | Name                           | Undergraduate Institution                                             |
 | ------------------------------ | --------------------------------------------------------------------- |
@@ -386,7 +387,7 @@ For the following stanford cs phds, find where they attended undergrad. Output a
 | Mark Endo                      | Stanford University                                            |
 | Sabri Eyuboglu                 | Stanford University                                            |
 | Cristobal Eyzaguirre           | Pontificia Universidad Católica de Chile                       |
-| Chaofei Fan                    | Simon Fraser University & Zhejiang University                  |
+| Chaofei Fan                    | Zhejiang University                  |
 | Steven Feng                    | University of Waterloo                                         |
 | Agata Foryciarz                | Princeton University                                           |
 | Zipeng Fu                      | University of California, Los Angeles                          |
@@ -586,100 +587,579 @@ For the following stanford cs phds, find where they attended undergrad. Output a
 | Jordan Troutman         | University of Maryland, Baltimore County (UMBC)         |
 | Takara Truong           | University of Utah                                      |
 | Sang Truong             | University of Utah                                      |
+| Jonathan Tseng         | Stanford University                                  |
+| Alyssa Unell           | Massachusetts Institute of Technology (MIT)          |
+| Colin Unger            | University of California, Santa Barbara (UCSB)       |
+| Maya Varma             | Stanford University                                  |
+| Rahul Venkatesh        | R.V. College of Engineering, Bangalore (India)       |
+| Scott Viteri           | Massachusetts Institute of Technology (MIT)          |
+| Sierra Wang            | University of Washington                             |
+| Ziheng (Tony) Wang     | Massachusetts Institute of Technology (MIT)          |
+| William Wang           | Cornell University                                   |
+| Alex Wang              | Cornell University                                   |
+| Austin Wang            | Massachusetts Institute of Technology (MIT)          |
+| Sally Wang             | Stanford University                                  |
+| Ruocheng Wang          | Shanghai Jiao Tong University (China)                |
+| Peter Warden           | University of Manchester (UK)                        |
+| Anjiang Wei            | Peking University (China)                            |
+| Kaiyue Wen             | Tsinghua University (China)                          |
+| Yijia Weng             | Peking University (China)                            |
+| Keenon Werling         | Stanford University                                  |
+| Amalee Wilson          | University of Alabama at Birmingham (UAB)            |
+| Caleb Winston          | University of Washington                             |
+| Juliette Woodrow       | Stanford University                                  |
+| Theodora Worledge      | University of California, Berkeley                   |
+| Shirley Wu             | University of Science and Technology of China (USTC) |
+| Fang Wu                | Central University of Finance and Economics (China)  |
+| Shengguang Wu          | Peking University (China)                            |
+| Albert Wu              | Massachusetts Institute of Technology (MIT)          |
+| Zhengxuan Wu           | Case Western Reserve University                      |
+| Sofia Wyetzner         | University of Chicago                                |
+| Tiange Xiang           | University of Sydney (Australia)                     |
+| Zhiqiang Xie           | ShanghaiTech University (China)                      |
+| Audrey Xie             | Massachusetts Institute of Technology (MIT)          |
+| Minkai Xu              | Shanghai Jiao Tong University (China)                |
+| Haoran Xu              | Massachusetts Institute of Technology (MIT)          |
+| Kangrui Xue            | Stanford University                                  |
+| Rohan Yadav            | Carnegie Mellon University                           |
+| Bobby Yan              | University of California, Berkeley                   |
+| Jonathan Yang          | Stanford University                                  |
+| Brandon Yang           | Stanford University                                  |
+| Haotian Ye             | Peking University (China)                            |
+| Zachary Yedidia        | Harvard University                                   |
+| Luke Yi                | Peking University (China)                            |
+| Heng Yu                | Tsinghua University (China)                          |
+| Qinan Yu               | Brown University                                     |
+| Hong-Xing “Koven” Yu   | Sun Yat-sen University (China)                       |
+| Mert Yuksekgonul       | Boğaziçi University (Turkey)                         |
+| Yanjie Ze              | Shanghai Jiao Tong University (China)                |
+| Tom Zelazny            | Hebrew University of Jerusalem (Israel)              |
+| Eric Zelikman          | Stanford University                                  |
+| Yunzhi Zhang           | University of California, Berkeley                   |
+| Jiayi “Eris” Zhang     | University of Toronto (Canada)                       |
+| Yibo Zhang             | University of Science and Technology of China (USTC) |
+| Genghan Zhang          | Tsinghua University (China)                          |
+| Michael Zhang          | Harvard University                                   |
+| Marina Zhang           | Massachusetts Institute of Technology (MIT)          |
+| Chenyi Zhang           | Tsinghua University (China)                          |
+| Tianyi Zhang           | Cornell University                                   |
+| Lvmin Zhang            | Soochow University (China)                           |
+| Sharon Xinru Zhang     | Tsinghua University (China)                          |
+| Yuhui Zhang            | Tsinghua University (China)                          |
+| Qizheng Zhang          | University of Chicago                                |
+| Zihao Zhao             | *Not available / N/A*                                |
+| Wanjia Zhao            | Zhejiang University (China)                          |
+| Yang Zheng             | *Not available / N/A*                                |
+| Lucia Zheng            | Stanford University                                  |
+| Linqi (Alex) Zhou      | University of California, Los Angeles (UCLA)         |
+| Z. (Zixin “Jack”) Zhou | Peking University (China)                            |
+| Zikai “Cyrus” Zhou     | University of Chicago                                |
+| Henry Zhu              | University of California, Berkeley                   |
+| Carolyn Zou            | Cornell University                                   |
+
+North American schools:
+>=5: Stanford, Berkeley, MIT, Cornell, Harvard, CMU, UWashington, Princeton, UCSD, UCLA, Georgia Tech
+>=3: UChicago, Yale, USC, UPenn, UT Austin, UofT, UWaterloo, Brown
+=2: Penn state, Wisconsin–Madison, UC Davis, UMaryland, UBC, Columbia, Utah, UCSB
+
+                                         Inst_canon  Student Count
+                                Stanford University             45
+                 University of California, Berkeley             26
+              Massachusetts Institute of Technology             22
+                                Tsinghua University             15
+                                 Cornell University             10
+                                  Peking University              9
+                         Carnegie Mellon University              8
+                                 Harvard University              8
+                           University of Washington              7
+                               Princeton University              6
+              University of California, Los Angeles              5
+                University of California, San Diego              5
+                    Georgia Institute of Technology              5
+                                    Yale University              4
+                              University of Chicago              4
+                                Zhejiang University              4
+      University of Science and Technology of China              4
+              Indian Institute of Technology Bombay              3
+                         University of Pennsylvania              3
+                      Shanghai Jiao Tong University              3
+              Indian Institute of Technology Kanpur              3
+               Indian Institute of Technology Delhi              3
+                  University of Southern California              3
+                             University of Waterloo              3
+                                   Brown University              3
+                      University of Texas at Austin              3
+                              University of Toronto              3
+                      Pennsylvania State University              2
+                            University of Cambridge              2
+          Birla Institute of Technology and Science              2
+            University of California, Santa Barbara              2
+                    University of Wisconsin–Madison              2
+           University of Maryland, Baltimore County              2
+                    University of California, Davis              2
+                                Columbia University              2
+                     University of British Columbia              2
+                                 Beihang University              2
+                          Seoul National University              2
+                                 University of Utah              2
+              Indian Institute of Technology Madras              2
+                    Sharif University of Technology              2
+                               University of Sydney              2
+                   University of California, Irvine              1
+                                    Trinity College              1
+                University of Alabama at Birmingham              1
+Bangladesh University of Engineering and Technology              1
+        University of North Carolina at Chapel Hill              1
+                             University of Delaware              1
+                          University of Puerto Rico              1
+                 Washington University in St. Louis              1
+                                      Virginia Tech              1
+                             University of Virginia              1
+                               University of Tehran              1
+                            University of São Paulo              1
+                        University of South Florida              1
+                        The University of Edinburgh              1
+                            University of Hong Kong              1
+                            University of Minnesota              1
+                             University of Michigan              1
+               University of Maryland, College Park              1
+                           University of Manchester              1
+                                University of Lagos              1
+         University of Illinois at Urbana-Champaign              1
+                                  Tongji University              1
+                                    Rice University              1
+                             Sun Yat-sen University              1
+                                    Duke University              1
+                           James Madison University              1
+                              Iowa State University              1
+                                   Hunan University              1
+                     Hebrew University of Jerusalem              1
+                                Harvey Mudd College              1
+                                 Hanyang University              1
+                              Georgetown University              1
+                           Freie Universität Berlin              1
+                         Copenhagen Business School              1
+ Kwame Nkrumah University of Science and Technology              1
+                  Chalmers University of Technology              1
+        Central University of Finance and Economics              1
+                    Case Western Reserve University              1
+            California Polytechnic State University              1
+                 California Institute of Technology              1
+                                Boğaziçi University              1
+                                    Bowdoin College              1
+                                 Bharati Vidyapeeth              1
+ Korea Advanced Institute of Science and Technology              1
+           Lahore University of Management Sciences              1
+                                 Soochow University              1
+        Pohang University of Science and Technology              1
+                                  Sogang University              1
+      Singapore University of Technology and Design              1
+                            ShanghaiTech University              1
+                             RWTH Aachen University              1
+                        R.V. College of Engineering              1
+           Pontificia Universidad Católica de Chile              1
+                Polytechnic University of Catalonia              1
+                              Politecnico di Milano              1
+                            Northeastern University              1
+                                  McGill University              1
+                                New York University              1
+                         National Taiwan University              1
+               National Institute of Technology Goa              1
+                   Nanyang Technological University              1
+                                 Nanjing University              1
+         Moscow Institute of Physics and Technology              1
+         Misr University for Science and Technology              1
+                                 Middlebury College              1
+           École Polytechnique Fédérale de Lausanne              1
 
 
 
-                                           Inst_canon  Student Count
-                                  Stanford University             35
-                             University of California             35
-                Massachusetts Institute of Technology             14
-                                  Tsinghua University              9
-                           Carnegie Mellon University              7
-                                 Princeton University              6
-                                   Cornell University              6
-                                   Harvard University              6
-                             University of Washington              5
-                      Georgia Institute of Technology              5
-                                      Yale University              4
-                                    Peking University              3
-                               University of Maryland              3
-                           University of Pennsylvania              3
-                        University of Texas at Austin              3
-                Indian Institute of Technology Kanpur              3
-                 Indian Institute of Technology Delhi              3
-                Indian Institute of Technology Bombay              3
-                    University of Southern California              3
-                               University of Waterloo              3
-                                University of Toronto              2
-                                  Zhejiang University              2
-                                     Brown University              2
-                        Pennsylvania State University              2
-                              University of Cambridge              2
-                       University of British Columbia              2
-            Birla Institute of Technology and Science              2
-                      University of Wisconsin–Madison              2
-        University of Science and Technology of China              2
-                            Seoul National University              2
-                Indian Institute of Technology Madras              2
-                                  Columbia University              2
-                      Sharif University of Technology              2
-                                   University of Utah              2
-                               University of Delaware              1
-                                      Trinity College              1
-                                    Tongji University              1
-                   Washington University in St. Louis              1
-                          The University of Edinburgh              1
-                                University of Chicago              1
-                                  University of Lagos              1
-                              University of Hong Kong              1
-           University of Illinois at Urbana-Champaign              1
-                                 University of Tehran              1
-                                        Virginia Tech              1
-                               University of Michigan              1
-                              University of Minnesota              1
-          University of North Carolina at Chapel Hill              1
-                            University of Puerto Rico              1
-                          University of South Florida              1
-                                    Sogang University              1
-                                 University of Sydney              1
-                               University of Virginia              1
-                              University of São Paulo              1
-  Bangladesh University of Engineering and Technology              1
-                  Polytechnic University of Catalonia              1
-        Singapore University of Technology and Design              1
-   Kwame Nkrumah University of Science and Technology              1
-                             James Madison University              1
-                                Iowa State University              1
-                                     Hunan University              1
-                                  Harvey Mudd College              1
-                                   Hanyang University              1
-                                Georgetown University              1
-                             Freie Universität Berlin              1
-                                      Duke University              1
-                           Copenhagen Business School              1
-                    Chalmers University of Technology              1
-              California Polytechnic State University              1
-                   California Institute of Technology              1
-                                      Bowdoin College              1
-                                   Bharati Vidyapeeth              1
-Beihang University (Beijing University of Aeronautics              1
-   Korea Advanced Institute of Science and Technology              1
-             Lahore University of Management Sciences              1
-                              Simon Fraser University              1
-                                    McGill University              1
-                                      Rice University              1
-                               RWTH Aachen University              1
-             Pontificia Universidad Católica de Chile              1
-                                   Beihang University              1
-                                Politecnico di Milano              1
-          Pohang University of Science and Technology              1
-                              Northeastern University              1
-                                  New York University              1
-                           National Taiwan University              1
-                 National Institute of Technology Goa              1
-                     Nanyang Technological University              1
-                                   Nanjing University              1
-           Moscow Institute of Physics and Technology              1
-           Misr University for Science and Technology              1
-                                   Middlebury College              1
-             École Polytechnique Fédérale de Lausanne              1
+
+https://www2.eecs.berkeley.edu/People/gradhomepages.html#J
+Lakshya A Agrawal
+Arwa AlAnqary
+Rod Bayliss
+Vinamra Benara
+Vivek Bharadwaj
+Lloyd Brown
+Landon Butler
+Catherine Chen
+David Chu
+Noelle Davis
+Sampada Deglurkar
+Devon Ding
+Kris Shengjun Dong
+Ramit Dutta
+Rachel Freedman
+Dekel Galor
+Francesca Giardine
+Adwait Godbole
+Sam Gunn
+Jae Hong
+Logan Horowitz
+Yixiao Huang
+Christian Ikeokwu
+Justin Kang
+Sagar Karandikar
+Darya Kaviani
+Chanwut (Mick) Kittivorawong
+Canal Li
+Tingle Li
+Jiachen Lian
+Tony Lian
+Shaokai Lin
+Toru Lin
+Yu-Chi Lin
+Xiaoxuan Liu
+Xiaoyuan Liu
+Xintian Liu
+Grace Luo
+Hila Mor
+Federico Mora
+Melissa Pan
+Angelos Pelecanos
+Julien Piet
+Sara Pohland
+Jerome Quenum
+Nived Rajaraman
+Eric Rawn
+Bhaskar Roberts
+Sheng Shen
+Kaylene Stocking
+Neerja Thakkar
+Chien-Ting Tung
+Francisca Vasconcelos
+David Wu
+Haoru Xue
+Kevin Zheng
+Alan Zhu
+
+
+
+
+
+CMU CS PhDs, CS department
+https://csd.cmu.edu/people/doctoral?page=0 
+A – B
+
+Corinthia Aberle
+
+Anup Agarwal
+
+Bhavya Kumar Agrawalla
+
+Victor Akinwande
+
+Ioannis Anagnostides
+
+Sam Arch
+
+Daiyaan Arfeen
+
+Gaurav Arya
+
+Sanjith Athlur
+
+Nirav Atre
+
+Ratip Emin Berker
+
+Aviv Bick
+
+Andrew Brady
+
+Jennifer Brana
+
+Irmak Bukey
+
+C
+
+Alper Cakan
+
+André Cesar Costa
+
+Dorian Chan
+
+Edward Chen
+
+Shawn Chen
+
+Siyuan Chen
+
+Zhibo Chen
+
+Zhuoming Chen
+
+Xinhao Cheng
+
+Wayne Chi
+
+Saransh Chopra
+
+Valerie Choung
+
+Ethan Chu
+
+Joshua Clune
+
+Cayden Codel
+
+Patrick Coppock
+
+Quang Dao
+
+Luiz Gustavo De Sa
+
+Qifei Dong
+
+Myra Dotzel
+
+Thomas Draper
+
+F – H
+
+Nicole Feng
+
+Margarida Ferreira Farina
+
+Henry Fleischmann
+
+Kiriaki Fragkia
+
+Hugo Sadok Freitas Siqueira S M Barreto
+
+James Gallicchio
+
+Apurva Gandhi
+
+Zhengyang Geng
+
+Souradip Ghosh
+
+Nathan Glover
+
+Alexander Goldberg
+
+Rafael Goncalves
+
+Theo Gregersen
+
+Harrison Grodin
+
+Joshua Grosso
+
+Keerthana Gurushankar
+
+Olga Gutan
+
+William He
+
+Yige Hong
+
+Bohan Hou
+
+Jun-Ting Hsieh
+
+Stephen Huan
+
+Jerry Huang
+
+J – L
+
+Suhas Jayaram Subramanya
+
+Siddharth Jayashankar
+
+Kunming Jiang
+
+Hongyi Jin
+
+Aditi Kabra
+
+Sagar Kalasibail Seetharam
+
+Zak Kent
+
+Eungyeup Kim
+
+Hyoungjoo Kim
+
+Lingjing Kong
+
+Andrew Krapivin
+
+Kevin Kuo
+
+Vasileios Kypriotis
+
+Ruihang Lai
+
+Arjun Lakshmipathy
+
+Christos Laspias
+
+Seunghyun Lee
+
+Yiran Lei
+
+George Li
+
+Runming Li
+
+Tianqin Li
+
+Zhouzi Li
+
+Zikun Li
+
+Jingxun Liang
+
+Wan Shen Lim
+
+Guying Lin
+
+Honghao Lin
+
+Zhengyao Lin
+
+Jiayuan Liu
+
+Pengyu Liu
+
+Zoë Marschner
+
+Sara McAllister
+
+Colin McDonald
+
+Michael McLoughlin
+
+Bailey Miller
+
+Nj Mukherjee
+
+N – P
+
+Hoai-An Nguyen
+
+Chase Norman
+
+Juli O’Connor
+
+Caspar Oesterheld
+
+Gabriele Oliaro
+
+Qi Pang
+
+Hojin Park
+
+Long Pham
+
+Adithya Abraham Philip
+
+Madhusudhan Pittu
+
+Siddharth Prasad
+
+Ava Pun
+
+Q – S
+
+Ziyue Qiu
+
+Joseph Reeves
+
+Sophia Roshal
+
+Nuno Sabino
+
+Sagnik Saha
+
+Yash Savani
+
+Matias Scharager
+
+Amar Shah
+
+Matan Shtepel
+
+Rose Silver
+
+Noah Singer
+
+Pratap Singh
+
+Max Sobol Mark
+
+Eliot Solomon
+
+Alicia Stepin
+
+Ben Stoler
+
+Tanli Su
+
+Bernardo Anibal Subercaseaux Roa
+
+Isabel Suizo
+
+T – V
+
+Elanor Tang
+
+Arjun Teh
+
+Emanuel Tewolde
+
+Abitha Thankaraj
+
+Catalina Vajiac
+
+Saranya Vijayakumar
+
+W – Z
+
+Barry Wang
+
+Guy Wilks
+
+Joshua Williams
+
+Mengdi Wu
+
+Mingkuan Xu
+
+Jeff Xu
+
+Yixuan Xu
+
+Junzhao Yang
+
+Yue Yao
+
+Emre Yolcu
+
+Brian Zhang
+
+William Zhang
+
+Tesla Zhang
+
+Zhihao Zhang
+
+Kaiyang Zhao
+
+Juntian Zheng
+
+Peter Zhong
+
+Ziqian Zhong
+
+Mingxun Zhou
+
+Renfei Zhou
+
+Yonghao Zhuang
+
+Andy Zou
