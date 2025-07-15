@@ -1,0 +1,179 @@
+Aditya Agarwal | PES University (formerly PESIT)
+Kumail Alhamoud | Cornell University
+Jake Austin | University of California, Berkeley
+Xingjian Bai | University of Oxford
+Aparna Balagopalan | Indian Institute of Technology, Guwahati
+Ajay Brahmakshatriya | Indian Institute of Technology, Hyderabad
+Robert Calef | University of California, Santa Cruz
+Stephen Casper | Harvard College
+Kartik Chandra | Stanford University
+Peter Baile Chen | University of Pennsylvania
+Ching Lam Choi | Chinese University of Hong Kong
+Ching-Yao Chuang | National Tsing Hua University
+Phillip Christoffersen | University of Toronto
+Mehul Damani | Nanyang Technological University
+Nitish Dashora | University of California, Berkeley
+Jialin Ding | Stanford University
+Mingyang Deng | Massachusetts Institute of Technology
+Josh Engels | Rice University
+Xiaolin Fang | Zhejiang University
+Margherita Firenze | Columbia University
+Maxwell Fishelson | Massachusetts Institute of Technology
+Alex Forsey-Smerek | Massachusetts Institute of Technology
+Siyu (Catherine) Gai | University of California, Berkeley
+Kristian Georgiev | Massachusetts Institute of Technology
+Courtney Golden | Cornell University
+Varun Gohil | Indian Institute of Technology, Gandhinagar
+Samuel Gruetter | École Polytechnique Fédérale de Lausanne (EPFL)
+Minghao Guo | Tsinghua University
+Sharut Gupta | Indian Institute of Technology, Delhi
+Seungwook Han | Columbia University
+Leila Hampton | Spelman College
+Andreas Haupt | Goethe University Frankfurt
+Hyewon Jeong | Korea Advanced Institute of Science and Technology (KAIST)
+Christina X Ji | Massachusetts Institute of Technology
+Qixuan Jin | California Institute of Technology
+Pantea Karimi | Sharif University of Technology
+Elijah Karvelis | University of Illinois Urbana-Champaign
+Jovana Kondic | Princeton University
+Nishanth Kumar | Brown University
+Benjamin Lahner | Boston University
+Antoine Leeman | University of Liège
+Alexander Lenail | Tufts University
+Chenning Li | Tsinghua University
+Shen Li | Pennsylvania State University
+Tianhong Li | Tsinghua University
+Junhong Lin | Huazhong University of Science and Technology
+Yang Liu | Tsinghua University
+Yingcheng Liu | Peking University
+Ziqian Liu | University of Waterloo
+Geoffrey Litt | Yale University
+Alston Lo | University of Toronto
+Artem Lukoianov | Moscow Institute of Physics and Technology
+Yiyue Luo | University of Illinois Urbana-Champaign
+Pingchuan Ma | Nankai University
+Rachel Ma | Brown University
+Markos Markakis | Princeton University
+Peter Mikhael | Duke University
+Intae Moon | University of Illinois Urbana-Champaign
+Hussein Mozannar | American University of Beirut
+Ramya Muthukrishnan | University of Pennsylvania
+Arash Nasr-Esfahany | Sharif University of Technology
+Michail Ouroutzoglou | Technical University of Crete
+Andi Peng | Yale University
+Maxine Perronni-Scharf | Dartmouth College
+Isha Puri | Harvard University
+Linlu Qiu | University of Hong Kong
+Utkrash R | Indian Institute of Technology Kanpur
+Prerna Ravi | Georgia Institute of Technology
+Evelyne Ringoot | Vrije Universiteit Brussel
+Caleb Robelle | University of Maryland, Baltimore County
+Jillian Ross | Columbia University (SEAS)
+Shuvom Sadhuka | Harvard University
+Anna Sappington | MIT
+Bipsha Sen | K.C. College of Engineering, University of Mumbai
+Christopher Basil Scarvelis | McGill University
+Harshay Shah | University of Illinois at Urbana-Champaign
+Junxuan Shen | California Institute of Technology
+Nithya Shikarpur | BITS Pilani, K.K. Birla Goa Campus
+Samuel Sledzieski | University of Connecticut
+Michael Sun | Stanford University
+Behrooz Tahmasebi | Sharif University of Technology
+Yunsheng Tian | Nankai University
+Jianming Tong | Xi’an Jiaotong University
+Megan Tjandrasuwita | California Institute of Technology
+Lirui Wang | University of Washington
+Tsun-Hsuan Wang | National Tsing Hua University
+Hallee Wong | Williams College
+Dylan Wootton | University of Utah
+Zhaofeng Wu | University of Washington
+Ziniu Wu | Carnegie Mellon University
+Yuxin Xiao | University of Illinois at Urbana-Champaign
+Haike Xu | Tsinghua University (Yao Class)
+Lei Yang | Peking University
+Mingran Yang | Fudan University
+Yuheng Yang | University of Chinese Academy of Sciences
+Yuzhe Yang | Peking University
+Takatoshi Yoshida | University of Tokyo
+Geoffrey X Yu | University of Waterloo
+Charles Yuan | Carnegie Mellon University
+Akib Zaman | Military Institute of Science and Technology
+Christos Zarkos | University of Crete
+Xiao Sean Zhan | Brown University
+Annan Zhang | ETH Zürich
+Sylvia Zhang | Carnegie Mellon University
+Wei Zhang | Tsinghua University
+Yihao Zhang | University of Michigan – Ann Arbor
+Cai Zhou | Tsinghua University
+Xiaochen Zhu | National University of Singapore
+Zijie Zhao | Tianjin University
+
+
+                                        Inst_canon  Student Count
+                               Tsinghua University              7
+             Massachusetts Institute of Technology              6
+           University of Illinois Urbana-Champaign              5
+                                 Peking University              3
+                                Harvard University              3
+                   Sharif University of Technology              3
+                                  Brown University              3
+                California Institute of Technology              3
+                        Carnegie Mellon University              3
+                               Columbia University              3
+                               Stanford University              3
+                University of California, Berkeley              3
+                     National Tsing Hua University              2
+                        University of Pennsylvania              2
+                             University of Toronto              2
+                          University of Washington              2
+                            University of Waterloo              2
+                              Princeton University              2
+                                Cornell University              2
+                                   Yale University              2
+                                 Nankai University              2
+                                  Tufts University              1
+                         University of Connecticut              1
+              University of California, Santa Cruz              1
+                                Tianjin University              1
+         University of Chinese Academy of Sciences              1
+                              University of Oxford              1
+                               University of Crete              1
+                           University of Hong Kong              1
+                               University of Liège              1
+          University of Maryland, Baltimore County              1
+                University of Michigan – Ann Arbor              1
+                               University of Tokyo              1
+                                University of Utah              1
+                        Vrije Universiteit Brussel              1
+                                  Williams College              1
+                         Xi’an Jiaotong University              1
+                               Zhejiang University              1
+                     Technical University of Crete              1
+                     American University of Beirut              1
+                                   Spelman College              1
+       Indian Institute of Technology, Gandhinagar              1
+                                 Boston University              1
+                   Chinese University of Hong Kong              1
+                                 Dartmouth College              1
+                                   Duke University              1
+                                        ETH Zürich              1
+                                  Fudan University              1
+                   Georgia Institute of Technology              1
+                       Goethe University Frankfurt              1
+     Huazhong University of Science and Technology              1
+             Indian Institute of Technology Kanpur              1
+             Indian Institute of Technology, Delhi              1
+          Indian Institute of Technology, Guwahati              1
+                                   Rice University              1
+         Indian Institute of Technology, Hyderabad              1
+                       K.C. College of Engineering              1
+Korea Advanced Institute of Science and Technology              1
+                                 McGill University              1
+      Military Institute of Science and Technology              1
+        Moscow Institute of Physics and Technology              1
+                  Nanyang Technological University              1
+                  National University of Singapore              1
+                                    PES University              1
+         Birla Institute of Technology and Science              1
+                     Pennsylvania State University              1
+          École Polytechnique Fédérale de Lausanne              1

@@ -1,0 +1,718 @@
+prompt: 
+The following is a list of current CMU CS PhDs; find where they attended undergrad. Each line in the output should be in the format of "{name} | {school}". Avoid citations so that I can easily copy and paste later. Make sure to find everyone's undergrad unless it's impossible. 
+
+https://csd.cmu.edu/people/doctoral 
+Corinthia Aberle
+Anup Agarwal
+Bhavya Kumar Agrawalla
+Victor Akinwande
+Ioannis Anagnostides
+Sam Arch
+Daiyaan Arfeen
+Gaurav Arya
+Sanjith Athlur
+Nirav Atre
+Ratip Emin Berker
+Aviv Bick
+Andrew Brady
+Jennifer Brana
+Irmak Bukey
+Alper Cakan
+André Cesar Costa
+Dorian Chan
+Edward Chen
+Shawn Chen
+Siyuan Chen
+Zhibo Chen
+Zhuoming Chen
+Xinhao Cheng
+Wayne Chi
+Saransh Chopra
+Valerie Choung
+Ethan Chu
+Joshua Clune
+Cayden Codel
+Patrick Coppock
+Quang Dao
+Luiz Gustavo De Sa
+Qifei Dong
+Myra Dotzel
+Thomas Draper
+Nicole Feng
+Margarida Ferreira Farina
+Henry Fleischmann
+Kiriaki Fragkia
+Hugo Sadok Freitas Siqueira S M Barreto
+James Gallicchio
+Apurva Gandhi
+Zhengyang Geng
+Souradip Ghosh
+Nathan Glover
+Alexander Goldberg
+Rafael Goncalves
+Theo Gregersen
+Harrison Grodin
+Joshua Grosso
+Keerthana Gurushankar
+Olga Gutan
+William He
+Yige Hong
+Bohan Hou
+Jun-Ting Hsieh
+Stephen Huan
+Jerry Huang
+Suhas Jayaram Subramanya
+Siddharth Jayashankar
+Kunming Jiang
+Hongyi Jin
+Aditi Kabra
+Sagar Kalasibail Seetharam
+Zak Kent
+Eungyeup Kim
+Hyoungjoo Kim
+Lingjing Kong
+Andrew Krapivin
+Kevin Kuo
+Vasileios Kypriotis
+Ruihang Lai
+Arjun Lakshmipathy
+Christos Laspias
+Seunghyun Lee
+Yiran Lei
+George Li
+Runming Li
+Tianqin Li
+Zhouzi Li
+Zikun Li
+Jingxun Liang
+Wan Shen Lim
+Guying Lin
+Honghao Lin
+Zhengyao Lin
+Jiayuan Liu
+Pengyu Liu
+Zoë Marschner
+Sara McAllister
+Colin McDonald
+Michael McLoughlin
+Bailey Miller
+Nj Mukherjee
+Hoai-An Nguyen
+Chase Norman
+Juli O'Connor
+Caspar Oesterheld
+Gabriele Oliaro
+Qi Pang
+Hojin Park
+Long Pham
+Adithya Abraham Philip
+Madhusudhan Pittu
+Siddharth Prasad
+Ava Pun
+Ziyue Qiu
+Joseph Reeves
+Sophia Roshal
+Nuno Sabino
+Sagnik Saha
+Yash Savani
+Matias Scharager
+Amar Shah
+Matan Shtepel
+Rose Silver
+Noah Singer
+Pratap Singh
+Max Sobol Mark
+Eliot Solomon
+Alicia Stepin
+Ben Stoler
+Tanli Su
+Bernardo Anibal Subercaseaux Roa
+Isabel Suizo
+Elanor Tang
+Arjun Teh
+Emanuel Tewolde
+Abitha Thankaraj
+Catalina Vajiac
+Saranya Vijayakumar
+Barry Wang
+Guy Wilks
+Joshua Williams
+Mengdi Wu
+Mingkuan Xu
+Jeff Xu
+Yixuan Xu
+Junzhao Yang
+Yue Yao
+Emre Yolcu
+Brian Zhang
+William Zhang
+Tesla Zhang
+Zhihao Zhang
+Kaiyang Zhao
+Juntian Zheng
+Peter Zhong
+Ziqian Zhong
+Mingxun Zhou
+Renfei Zhou
+Yonghao Zhuang
+Andy Zou
+
+
+https://ml.cmu.edu/people/phd-students
+Jing Yu Koh
+Yiding Jiang
+Zhili Feng
+Valerie Chen
+Yuki Minai
+Evan Trop
+Junhong Shen
+Gabriel Sarch
+Namrata Deka
+Brandon Trabucco
+Aashiq Muhamed
+Yuda Song
+Yingtao Luo
+Xiangchen Song
+Lane Lewis
+Pranav Rajbhandari
+Rebecca Yu
+Jin-Hong Du
+Yuxiao Qu
+Nuoya Xiong
+Chang Liu
+Logan Crowl
+Zixin Wen
+Naveen Raman
+Renato Negrinho
+Jacob Yeung
+Anh Tuan Nguyen
+Stephan Xie
+Yusha Liu
+Conor Igoe
+Dongrui Deng
+Maxwell Jones
+Kevin Li
+Keegan Harris
+Sukjun Hwang
+Khurram Yamin
+Nupoor Gandhi
+Ritabrata Ray
+Jacob Springer
+Juyong Kim
+Daniel Jeong
+Daman Arora
+Johnna Sundberg
+Ezra Winston
+Pratyush Maini
+Efe Mert Karagozlu
+Yuchen Shen
+Sachin Goyal
+Shahriar Noroozizadeh
+Nai-Chieh Huang
+Ellie Haber
+Inioluwa Oguntola
+Selina Carter
+Isaac Liao
+Xueying Ding
+Chenchen Gu
+Zijun Ding
+Jingchu Gai
+Fahim Tajwar
+Vladimir Malinovskii
+Victoria Lin
+Terrance Liu
+Gaurav Ghosal
+Yewen Fan
+Jeffrey Wu
+Joel Ye
+Subha Pushpita
+Ignacy Stepka
+Tian Ye
+Gati Aher
+Chris Ki
+Ojash Neopane
+Ananye Agarwal
+Aravind Venugopal
+Lawrence Keunho Jang
+Kanad Pardeshi
+Deying Song
+Utkarsh Priyam
+Emily Byun
+Qiuhong Anna Wei
+Abi Kothapalli
+Wenbin Zhou
+Aakash Lahoti
+Souraja Kundu
+Grace Liu
+Ifigeneia Apostolopoulou
+Jeremy Tien
+Anna Bair
+Youngseog Chung
+Benjamin Chugg
+Santiago Cortés
+Dylan Sam
+Oscar Li
+Tomas Gonzalez Lara
+Tom Yan
+Kelly He
+Don Dennis
+Maitreyi Swaroop
+Chrstina Baek
+Yuxin Guo
+Niki Hasrati
+Nari Johnson
+Saumya Goyal
+Ian Wu
+Samuel Sokota
+Karish Grover
+Rattana Pukdee
+Jennifer Hsia
+Lili Chen
+Che-Ping Tsai
+Yuchen Li
+Shanda Li
+Stephanie Milani
+
+
+https://www.ri.cmu.edu/people/students/?wpv_post_search=&wpv_post_advisor=&person-category=PhD+Student&cohort-year=&display-total=all
+Montiel Abello
+Anoushka Alavilli
+Giridharan Anantharaman
+Mike Anoruof
+Ananya Bal
+Zhipeng Bao
+Cornelia Bauer
+Guadalupe Bernal
+Anoop Bhat
+Arun Bishop
+Abena Boadi-Agyemang
+Abigail Breitfeld
+Matthew Bronars
+Arthur Fender Coelho Bucker
+Patrick Callaghan
+Chao Cao
+Jinkun Cao
+Nicole Chan
+Angela Chen
+Sally Chen
+Hongyi Chen
+Rui Chen
+Hsu-kuang Chiu
+Rohan Choudhury
+Wen-Hsuan Chu
+Maggie Collier
+Mosam Dabhi
+Kangle Deng
+Bardienus Duisterhof
+Emma Erickson
+Benjamin Freed
+Harry Freeman
+Diana Frias Franco
+Ruihan Gao
+Gautam Rajendrakumar Gare
+Anurag Ghosh
+Nikolaos Gkanatsios
+Xiaofeng Guo
+Pranay Gupta
+Tejus Gupta
+Dominic Guri
+Swaminathan Gurumurthy
+Margaret Hansen
+Rayna Hata
+Tairan He
+Iqui Balam Heredia Marin
+Yuichi Hirose
+Hanzhe Hu
+Zheyuan Hu
+Joe Huang
+Philip Huang
+Shun Iwase
+Ayush Jain
+Tushaar Jain
+Vidhi Jain
+Andrew Jong
+Zulekha Karachiwalla
+Jay Karhade
+Nikhil Keetha
+Prasanna Kettavarapalyam Sriganesh
+Tarasha Khurana
+John Kim
+Emily Kim
+Seungchan Kim
+Jonathan King
+Nupur Kumari
+Jeong Hun Lee
+Mark Lee
+Amber Li
+Bowen Li
+Xinyu Li
+Zhiqiu Lin
+Yehonathan Litman
+Jason Liu
+Wayne Liu
+Simin Liu
+Zhixuan Liu
+Jiachen Lu
+Parv Maheshwari
+Steven Man
+Yuemin Mao
+Rebecca Martin
+Daniel McGann
+Itamar Mishani
+Vihaan Misra
+Himangi Mittal
+Cecilia Morales
+Mohammadreza Mousaei
+Kensuke Nakamura
+Junyu (Jenny) Nan
+Ingrid Navarro
+David Neiman
+Huy Quyen Ngo
+Sriram Narayanan
+Chase Noren
+Gabrielle Ohlson
+Pablo Ortega Kral
+Akhil Padmanabha
+Ravi Pandya
+Jinhyung Park
+Gaurav Parmar
+Sarvesh Patil
+Neehar Peri
+Easton Potokar
+Willa Potosnak
+Mihir Prabhudesai
+Kavya Puthuveetil
+Mohamad Qadri
+Ananya Rao
+Paulo Rotband Marchtein Fisch
+Arpita Routray
+Muhammad Suhail Saleem
+Navyata Nilesh Sanghvi
+Saumya Saxena
+Peter Schaldenbrand
+Ryan Schuerkamp
+Muhammet Yunus Seker
+Junwon Seo
+Yorai Shaoul
+Akash Sharma
+Ken Shaw
+Vivian Shen
+Yuyao Shi
+Kate Shih
+Zilin Si
+Shashwat Singh
+Samantha Speer
+Yifan Sun
+Krishna Suresh
+Gokul Swamy
+Samuel Triest
+Rishi Veerapaneni
+Fausto Vega
+Mrinal Verghese
+Khiem Vuong
+Andrew Wang
+Jenny Wang
+Jianren Wang
+Jiashun Wang
+Jim Wang
+Sheng-Yu Wang
+Sunyu Wang
+Oliver Wang
+Yufei Wang
+Erica Weng
+Jacob Willis
+Chen Wu
+Yilin Wu
+Quanting Xie
+Eliot Xing
+Albert Xu
+Jianjin Xu
+Jingtian Yan
+Brian Yang
+Uksang Yoo
+Ying Yuan
+Renos Zabounidis
+Tianyi Zhang
+Yulun Zhang
+John Zhang
+Michelle Zhao
+Shibo Zhao
+Shen Zheng
+Gavin Zhu
+
+
+
+https://www.lti.cs.cmu.edu/people/students/index.html
+Pranjal Aggarwal
+Syeda Akter
+Fatima Al-Raisi
+Siddhant Arora
+Massa Baali
+Amanda Bertsch
+Shikhar Bharadwaj
+Shaily Jagat Bhatt
+Brendon Boldt
+Luis Borges
+Luke Breitfeller
+Yingshan Chang
+Li-Wei Chen
+Sang Keun Choe
+Daniel Clothiaux
+Joao Coelho
+Carla de Oliveira Viegas
+Mingkai Deng
+Athiya Deviyani
+Hira Dhamyal
+Harshita Diddee
+Weihua Du
+Ritam Dutt
+Zhen Fan
+Shengyu Feng
+Patrick Fernandes
+Jared Fernandez
+Luyu Gao
+Alfredo Gomez
+Liangke Gui
+Sireesh Gururaja
+Karina Halevy
+Kimihiro Hasegawa
+Andre He
+Jessica Huynh
+Zhengbao Jiang
+Cathy Jiao
+Anjali Kantharuban
+Gaoussou Kebe
+Simran Khanuja
+Seungone Kim
+To Eun Kim
+Steven Kolawole
+Kundan Krishna
+Bohan Li
+Andy Liu
+Emmy Liu
+Jingzhou Liu
+Zhengzhong Hector Liu
+Zhun Liu
+Qianli (Martin) Ma
+Wanli Ma
+Leena Mathur
+Jeremiah Milbauer
+Gabriel Moreira
+Ji Min Mun
+Clara Na
+Armineh Nourbakhsh
+Siqi Ouyang
+Chan Young Park
+Adithya Pratapa
+Yijun Qian
+Abhilasha Ravichander
+Karen Rosero
+James Route
+Sreecharan Sankaranarayanan
+Ankit Parag Shah
+Muhammad Shah
+Jiatong Shi
+Zhenqiao “Zoey” Song
+Nishant Subramani
+Weiwei Sun
+Zhiqing Sun
+Lintang Sutawika
+Bowen Tan
+Jinchuan Tian
+Lindia Tjuatja
+Saujas Vaduguru
+Vijay Viswanathan
+Danqing Wang
+Zhiruo Wang
+Haoyang Wen
+Alex Wilf
+Daegun Won
+Yiqing Xie
+Fangzheng Xu
+Kashu Yamazaki
+Brian Yan
+Daniel Chechelnitsky
+André Duarte
+
+
+
+https://hcii.cmu.edu/people/phd-students
+
+Adinawa Adjagbodjou
+Marshall An
+Riku Arakawa
+Ezra Awumey
+Shreya Bali
+Conrad Borchers
+Darren (Ren) Butler
+I-Sheng (Eason) Chen
+Tianying Chen
+Yi Fei Cheng
+Hyunsung Cho
+Erica Cruz
+Wesley Hanwen Deng
+Alicia DeVrio
+Nathan DeVrio
+Lisa Egede
+Hamza El Alaoui
+Frank Elavsky
+William Epperson
+Anna Fang
+Frederic Gmeiner
+Gillian Gold
+Catarina Gonçalves Fidalgo
+Jesse Gonzalez
+Luke Guerdan
+Rotem Guttman
+Aditi Haiman
+Noor Hammad
+Howard Han
+Violet Han
+Faria Huq
+Jiwoong (Joon) Jang
+Ji-Youn Jung
+Shivani Kapania
+Anna Kawakami
+Pranav Khadpe
+Neeta Khanuja
+Daehwa Kim
+Jini Kim
+Seyun Kim
+Sara Kingsley
+Isadora Krsek
+Tzu-Sheng Kuo
+Andrew Kuznetsov
+Christine Kwon
+Hao-Ping (Hank) Lee
+Hyun Jin (Alicia) Lee
+Franklin (Mingzhe) Li
+Yunzhi Li
+Yuxuan Li
+David Chuan-en Lin
+
+
+
+https://www.compbio.cmu.edu/people/cpcb-students.html
+Fareeda Abu-Juam
+Marisa Abundis
+Rishal Aggarwal
+Shahul Alam
+Dennis Aldea
+Chris Andersen
+Sina Barazandeh
+Molly Borowiak
+Nishat Anjum Bristy
+Alexander Chang
+Jacky Chen
+Zitong (Sam) Chen
+Wenduo Cheng
+Shu-Ting Cho
+Xiaoyue Cui
+Anush Devadhasan
+Marissa Di
+Alexander DiBiasi
+Xue Er Ding
+Shiyi Zoe Du
+Ian Dunn
+Mark Ebeid
+C. Shane Elder
+Caleb Ellington
+Luisa Escobar-Robledo
+Emma Flynn
+Peter Gerges
+Alexander Goldberg
+Filipp Gusev
+Ramith Hettiarachchi
+Nicholas Ho
+Rezwan Hosseini
+Carly Houghton
+Jieni Hu
+Mengying Hu
+Sophia Hu
+Alexander Hummels
+Thomas Jacob
+Peiran Jiang
+Gün Kaynar
+Swapnil Keshari
+Gargi Kher
+Yajushi Khurana
+A. Hyun (Annie) Kim
+Akash Kishore
+Josiah Kratz
+Ben Krummenacher
+Achyudhan Kutuva
+Jiwon Lee
+Young Je Lee
+Mike Leone
+Anna Li
+Jiayi Li
+Lanting Li
+Xinyue Lu
+Ruiqi Lyu
+Terry Ma
+Sazan Mahbub
+Anamarie Martinez-Turak
+Steph Masotti
+Laura McDonnell
+Seh Na Mellick
+Seoyoon Moon
+Ke Ni
+Filipp Nikitin
+Alisa Omelchenko
+Daniel Penaherrera
+Kristina Perevoshchik
+Dante Poe
+Thomas Rachman
+Javad Rahimikollu
+Ali Rasoulzadeh
+April Rich
+Aaron Rosen
+Akanksha Sachan
+Madeline Shaklee
+Sanjyot Shenoy
+Jane Siwek
+Steven Smeal
+Chaitanya Srinivasan
+Caitlin Strassburg
+Tracy Tabib
+Jingjing Tang
+Alistair Turcan
+Mostofa Rafid Uddin
+Alyson Wang
+Shike Wang
+Zihang Wen
+Hanxi Xiao
+Boshen Yan
+Muyu (Wendy) Yang
+Aidan Zhang
+
+
+https://se-phd.isri.cmu.edu/People/index.html
+Pedro Bravo-Mendes
+Ben-Hau Chia
+Ian Dardik
+Matthew Davis
+Luke Dramko
+Tobias Dürschmid
+Samuel Estep
+Morgan Evans
+Luis Fernandes-Gomes
+Catarina Gamboa
+Elizabeth Gilbert
+Hemant Gouni
+Harrison Green
+Andy Hammer
+Hwei-Shin Harriman
+Hao He
+Haoze He
+Yining Hong
+Jane Hsieh
+Byeongjee Kang
+Parv Kapoor
+Mikail Khan
+Zeeshan Lakhani
+Ao Li
+
+
+prompt
+The following is a list of current CMU CS PhDs; find where they attended undergrad. Each line in the output should be in the format of "{name} | {school}". Avoid citations so that I can easily copy and paste later. Make sure to find everyone's undergrad unless it's impossible. 

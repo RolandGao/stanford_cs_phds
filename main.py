@@ -1,24 +1,35 @@
+#!/usr/bin/env python3
+"""
+Count how many students in a “Name | Institution” list come from each
+undergraduate institution.
+
+The script expects the *clipboard* to contain lines such as::
+
+    Jing Yu Koh | Singapore University of Technology and Design
+    Yiding Jiang | University of California, Berkeley
+    …
+
+No header row or markdown separator is required.
+"""
+
 import pandas as pd
 import re
 
 ##############################################################################
-# 1.  READ THE MARKDOWN TABLE -----------------------------------------------
+# 1.  READ THE “NAME | INSTITUTION” LIST FROM CLIPBOARD ----------------------
 ##############################################################################
-raw = pd.read_clipboard(sep=r"\|", engine="python", header=None)
-raw = raw.dropna(axis=1, how="all")  # strip blank edges
-
-header_idx = raw.index[
-    ~raw.apply(lambda r: r.astype(str).str.fullmatch(r"-+\s*").all(), axis=1)
-][0]
-
-df = (
-    raw.iloc[header_idx + 1 :]
-    .rename(columns=raw.iloc[header_idx])
-    .reset_index(drop=True)
+# Split on “|” surrounded by optional whitespace.
+# We supply column names explicitly because the list has no header row.
+raw = (
+    pd.read_clipboard(
+        sep=r"\s*\|\s*",
+        engine="python",
+        header=None,
+        names=["Name", "Undergraduate Institution"],
+    )
+    .dropna(how="all")  # drop completely blank lines if any
+    .applymap(lambda x: x.strip() if isinstance(x, str) else x)
 )
-
-df.columns = df.columns.str.strip()
-df = df.applymap(lambda x: x.strip() if isinstance(x, str) else x)
 
 ##############################################################################
 # 2.  CANONICALISE SCHOOL NAMES ---------------------------------------------
@@ -48,8 +59,8 @@ ALIASES = {
 MISSING_PAT = re.compile(r"(not\s*(found|available)|^n/?a$)", re.I)
 
 
-def canonical(inst):
-    """Return a cleaned-up institution name or <NA>."""
+def canonical(inst: str) -> str | pd.NA:
+    """Return a cleaned-up institution name or <NA> if missing."""
     if pd.isna(inst):
         return pd.NA
     inst = str(inst).strip()
@@ -72,15 +83,16 @@ def canonical(inst):
     inst = re.sub(r"\s*\(.*$", "", inst)  # unmatched
     inst = re.sub(r"\s+", " ", inst).strip()
 
-    # trim trailing “, Country / City / Campus” except UC & U-Maryland
+    # trim trailing “, Country / City / Campus” except UC & U‑Maryland
     if not inst.startswith(("University of California,", "University of Maryland,")):
         inst = re.sub(r",\s*[A-Z][A-Za-z.\s]+$", "", inst).strip()
 
     return inst or pd.NA
 
 
-df["Inst_canon"] = df["Undergraduate Institution"].apply(canonical)
-df = df.dropna(subset=["Inst_canon"])  # drop rows that became NA
+raw["Inst_canon"] = raw["Undergraduate Institution"].apply(canonical)
+
+df = raw.dropna(subset=["Inst_canon"])  # drop rows that became NA
 
 ##############################################################################
 # 3.  AGGREGATE COUNTS -------------------------------------------------------

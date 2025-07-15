@@ -1,0 +1,112 @@
+Aditya Agarwal
+Kumail Alhamoud
+Jake Austin
+Xingjian Bai
+Aparna Balagopalan
+Ajay Brahmakshatriya
+Robert Calef
+Stephen Casper
+Kartik Chandra
+Peter Baile Chen
+Ching Lam Choi
+Ching-Yao Chuang
+Phillip Christoffersen
+Mehul Damani
+Nitish Dashora
+Jialin Ding
+Mingyang Deng
+Josh Engels
+Xiaolin Fang
+Margherita Firenze
+Maxwell Fishelson
+Alex Forsey-Smerek
+Siyu (Catherine) Gai
+Kristian Georgiev
+Courtney Golden
+Varun Gohil
+Samuel Gruetter
+Minghao Guo
+Sharut Gupta
+Seungwook Han
+Leila Hampton
+Andreas Haupt
+Hyewon Jeong
+Christina X Ji
+Qixuan Jin
+Pantea Karimi
+Elijah Karvelis
+Jovana Kondic
+Nishanth Kumar
+Benjamin Lahner
+Antoine Leeman
+Alexander Lenail
+Chenning Li
+Shen Li
+Tianhong Li
+Junhong Lin
+Yang Liu
+Yingcheng Liu
+Ziqian Liu
+Geoffrey Litt
+Alston Lo
+Artem Lukoianov
+Yiyue Luo
+Pingchuan Ma
+Rachel Ma
+Markos Markakis
+Peter Mikhael
+Intae Moon
+Hussein Mozannar
+Ramya Muthukrishnan
+Arash Nasr-Esfahany
+Michail Ouroutzoglou
+Andi Peng
+Maxine Perronni-Scharf
+Isha Puri
+Linlu Qiu
+Utkrash R
+Prerna Ravi
+Evelyne Ringoot
+Caleb Robelle
+Jillian Ross
+Shuvom Sadhuka
+Anna Sappington
+Bipsha Sen
+Christopher Basil Scarvelis
+Harshay Shah
+Junxuan Shen
+Nithya Shikarpur
+Samuel Sledzieski
+Michael Sun
+Behrooz Tahmasebi
+Yunsheng Tian
+Jianming Tong
+Megan Tjandrasuwita
+Lirui Wang
+Tsun-Hsuan Wang
+Hallee Wong
+Dylan Wootton
+Zhaofeng Wu
+Ziniu Wu
+Yuxin Xiao
+Haike Xu
+Lei Yang
+Mingran Yang
+Yuheng Yang
+Yuzhe Yang
+Takatoshi Yoshida
+Geoffrey X Yu
+Charles Yuan
+Akib Zaman
+Christos Zarkos
+Xiao Sean Zhan
+Annan Zhang
+Sylvia Zhang
+Wei Zhang
+Yihao Zhang
+Cai Zhou
+Xiaochen Zhu
+Zijie Zhao
+
+prompt
+The following is a list of current MIT CS PhDs; find where they attended undergrad. Each line in the output should be in the format of "{name} | {school}". Avoid citations so that I can easily copy and paste later. Make sure to find everyone's undergrad unless it's impossible. If unknown, say unknown as the school.

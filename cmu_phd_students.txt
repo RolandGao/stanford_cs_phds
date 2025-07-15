@@ -1,0 +1,1041 @@
+CSD
+Corinthia Aberle | University of Oxford
+Anup Agarwal | Indian Institute of Technology Guwahati
+Bhavya Kumar Agrawalla | Massachusetts Institute of Technology; Indian Institute of Science, Bangalore
+Victor Akinwande | University of Ilorin
+Ioannis Anagnostides | National Technical University of Athens
+Sam Arch | University of Sydney
+Daiyaan Arfeen | University of California, Berkeley
+Gaurav Arya | Massachusetts Institute of Technology
+Sanjith Athlur | PES University
+Nirav Atre | University of Toronto
+Ratip Emin Berker | Harvard University
+Aviv Bick | The Hebrew University of Jerusalem
+Andrew Brady | (information not found)
+Jennifer Brana | University of Portland
+Irmak Bukey | Pomona College
+Alper Cakan | Boğaziçi University
+André Cesar Costa | University of Lisbon (Instituto Superior Técnico)
+Dorian Chan | University of California, Berkeley
+Edward Chen | Pennsylvania State University
+Shawn Chen | Wuhan University
+Siyuan Chen | Peking University
+Zhibo Chen | University of California, San Diego
+Zhuoming Chen | Tsinghua University
+Xinhao Cheng | Dalian University of Technology
+Wayne Chi | University of Southern California
+Saransh Chopra | University of Delhi (Cluster Innovation Centre)
+Valerie Choung | Carnegie Mellon University
+Ethan Chu | Carnegie Mellon University
+Joshua Clune | Carnegie Mellon University
+Cayden Codel | Carnegie Mellon University
+Patrick Coppock | Georgia Institute of Technology
+Quang Dao | Columbia University
+Luiz Gustavo De Sa | University of Brasília
+Qifei Dong | University of Washington
+Myra Dotzel | University of Kansas
+Thomas Draper | Brigham Young University
+Nicole Feng | California Institute of Technology
+Margarida Ferreira Farina | Instituto Superior Técnico (University of Lisbon)
+Henry Fleischmann | University of Michigan
+Kiriaki Fragkia | National Technical University of Athens
+Hugo Sadok Freitas Siqueira S M Barreto | Federal University of Rio de Janeiro
+James Gallicchio | Carnegie Mellon University
+Apurva Gandhi | University of Southern California
+Zhengyang Geng | Peking University
+Souradip Ghosh | Northwestern University
+Nathan Glover | Carnegie Mellon University
+Alexander Goldberg | Harvard University
+Rafael Goncalves | Instituto Superior Técnico (University of Lisbon)
+Theo Gregersen | University of Washington
+Harrison Grodin | Carnegie Mellon University
+Joshua Grosso | California Institute of Technology
+Keerthana Gurushankar | Carnegie Mellon University
+Olga Gutan | Youngstown State University
+William He | Duke University
+Yige Hong | Chinese University of Hong Kong, Shenzhen
+Bohan Hou | Shanghai Jiao Tong University
+Jun-Ting Hsieh | Stanford University
+Stephen Huan | Georgia Institute of Technology
+Jerry Huang | University of Michigan
+Suhas Jayaram Subramanya | Indian Institute of Technology Madras
+Siddharth Jayashankar | Indian Institute of Technology Kanpur
+Kunming Jiang | Unknown
+Hongyi Jin | Shanghai Jiao Tong University
+Aditi Kabra | Cornell University
+Sagar Kalasibail Seetharam | Unknown
+Zak Kent | Cornell University
+Eungyeup Kim | Korea Advanced Institute of Science and Technology
+Hyoungjoo Kim | Seoul National University
+Lingjing Kong | South China Agricultural University
+Andrew Krapivin | Rutgers University
+Kevin Kuo | Unknown
+Vasileios Kypriotis | National Technical University of Athens
+Ruihang Lai | Shanghai Jiao Tong University
+Arjun Lakshmipathy | University of California, Los Angeles
+Christos Laspias | National and Kapodistrian University of Athens (University of Athens)
+Seunghyun Lee | Korea Advanced Institute of Science and Technology
+Yiran Lei | Tsinghua University
+George Li | University of Maryland
+Runming Li | University of Illinois at Urbana–Champaign
+Tianqin Li | Sun Yat-sen University
+Zhouzi Li | Tsinghua University
+Zikun Li | Peking University
+Jingxun Liang | Tsinghua University
+Wan Shen Lim | Carnegie Mellon University
+Guying Lin | Zhejiang University
+Honghao Lin | Shanghai Jiao Tong University
+Zhengyao Lin | University of Illinois at Urbana–Champaign
+Jiayuan Liu | Tsinghua University
+Pengyu Liu | Tsinghua University
+Zoë Marschner | Massachusetts Institute of Technology
+Sara McAllister | Harvey Mudd College
+Colin McDonald | University of Notre Dame
+Michael McLoughlin | Worcester Polytechnic Institute
+Bailey Miller | Dartmouth College
+Nj Mukherjee | University of North Carolina at Chapel Hill
+Hoai-An Nguyen | Rutgers University
+Chase Norman | University of California, Berkeley
+Juli O’Connor | Rutgers University
+Caspar Oesterheld | (Undergrad in Germany, institution not confirmed)
+Gabriele Oliaro | Harvard University
+Qi Pang | Zhejiang University
+Hojin Park | Seoul National University
+Long Pham | University of Oxford
+Adithya Abraham Philip | PES University (Bangalore)
+Madhusudhan Pittu | Indian Institute of Technology Kharagpur
+Siddharth Prasad | California Institute of Technology
+Ava Pun | University of Waterloo
+Ziyue Qiu | University of Science and Technology of China
+Joseph Reeves | California State University, Fresno
+Sophia Roshal | Cornell University
+Nuno Sabino | Instituto Superior Técnico, University of Lisbon
+Sagnik Saha | Massachusetts Institute of Technology
+Yash Savani | Cornell University
+Matias Scharager | Carnegie Mellon University
+Amar Shah | University of California, Berkeley
+Matan Shtepel | University of California, Los Angeles
+Rose Silver | Northeastern University
+Noah Singer | Harvard University
+Pratap Singh | Harvard University
+Max Sobol Mark | Stanford University
+Eliot Solomon | Rice University
+Alicia Stepin | University of Washington
+Ben Stoler | University of Michigan
+Tanli Su | Dartmouth College
+Bernardo Aníbal Subercaseaux Roa | University of Chile
+Isabel Suizo | University of California, San Diego
+Elanor Tang | University of Michigan
+Arjun Teh | University of Texas at Austin
+Emanuel Tewolde | Technical University of Darmstadt
+Catalina Vajiac | University of Notre Dame
+Saranya Vijayakumar | Harvard University
+Barry Wang | Cornell University
+Guy Wilks | University of California, Santa Barbara
+Joshua Williams | United States Military Academy (West Point)
+Mengdi Wu | Tsinghua University
+Mingkuan Xu | Tsinghua University
+Jeff Xu | UC Berkeley
+Yixuan Xu | Tsinghua University (Yao Class)
+Junzhao Yang | Unknown
+Yue Yao | Shanghai Jiao Tong University (UM-SJTU Joint Institute)
+Emre Yolcu | Unknown
+Brian Zhang | Stanford University
+William Zhang | Carnegie Mellon University
+Tesla Zhang | Pennsylvania State University
+Zhihao Zhang | Renmin University of China
+Kaiyang Zhao | Purdue University
+Juntian Zheng | Unknown
+Peter Zhong | Northwestern University
+Ziqian Zhong | Massachusetts Institute of Technology (MIT)
+Mingxun Zhou | Peking University
+Renfei Zhou | Tsinghua University (Yao Class)
+Yonghao Zhuang | Shanghai Jiao Tong University (ACM Honor Class)
+Andy Zou | University of California, Berkeley
+
+
+ML
+Jing Yu Koh | Singapore University of Technology and Design
+Yiding Jiang | University of California, Berkeley
+Zhili Feng | University of Illinois at Urbana-Champaign
+Valerie Chen | Yale University
+Yuki Minai | Nara Women’s University
+Evan Trop | University of British Columbia
+Junhong Shen | University of California, Los Angeles
+Gabriel Sarch | University of Rochester
+Namrata Deka | Indraprastha Institute of Information Technology, Delhi
+Brandon Trabucco | University of California, Berkeley
+Aashiq Muhamed | Indian Institute of Technology Roorkee
+Yuda Song | University of California, San Diego
+Yingtao Luo | University of Electronic Science and Technology of China
+Xiangchen Song | University of Illinois at Urbana-Champaign
+Lane Lewis | University of Arizona
+Pranav Rajbhandari | Carnegie Mellon University
+Rebecca Yu | Johns Hopkins University
+Jin-Hong Du | Sun Yat-sen University
+Yuxiao Qu | University of Wisconsin–Madison
+Nuoya Xiong | Tsinghua University
+Chang Liu | Tsinghua University
+Logan Crowl | Carleton College
+Zixin Wen | University of International Business and Economics (China)
+Naveen Raman | University of Maryland, College Park
+Renato Negrinho | Instituto Superior Técnico, Portugal
+Jacob Yeung | University of California, Berkeley
+Anh Tuan Nguyen | Hanoi University of Science and Technology
+Stephan Xie | University of Pennsylvania
+Yusha Liu | Tsinghua University
+Conor Igoe | University College Dublin
+Dongrui Deng | Xi’an Jiaotong University
+Maxwell Jones | Undergrad institution not found
+Kevin Li | Undergrad institution not found
+Keegan Harris | Pennsylvania State University
+Sukjun Hwang | Yonsei University
+Khurram Yamin | Georgia Institute of Technology
+Nupoor Gandhi | University of Illinois at Urbana-Champaign
+Ritabrata Ray | Indian Institute of Technology Kharagpur
+Jacob Springer | Swarthmore College
+Juyong Kim | Seoul National University
+Daniel Jeong | Columbia University
+Daman Arora | Indian Institute of Technology Delhi
+Johnna Sundberg | University of Wisconsin–Madison
+Ezra Winston | Undergrad institution not found
+Pratyush Maini | Indian Institute of Technology Delhi
+Efe Mert Karagozlu | Bilkent University
+Yuchen Shen | University of Electronic Science and Technology of China
+Sachin Goyal | Indian Institute of Technology Bombay
+Shahriar Noroozizadeh | Sharif University of Technology
+Nai-Chieh Huang | National Yang Ming Chiao Tung University (Taiwan)
+Ellie Haber | New York University
+Inioluwa Oguntola | Massachusetts Institute of Technology
+Selina Carter           | Dickinson College
+Isaac Liao              | Massachusetts Institute of Technology
+Xueying Ding            | Vanderbilt University
+Chenchen Gu             | Stanford University
+Zijun Ding              | Tsinghua University
+Jingchu Gai             | Peking University
+Fahim Tajwar            | Stanford University
+Vladimir Malinovskii    | Moscow Institute of Physics and Technology
+Victoria Lin            | Harvard University
+Terrance Liu            | University of Chicago
+Gaurav Ghosal           | University of California, Berkeley
+Yewen Fan               | University of Illinois at Urbana-Champaign
+Jeffrey Wu              | Tsinghua University
+Joel Ye                 | Georgia Institute of Technology
+Subha Pushpita          | Massachusetts Institute of Technology
+Ignacy Stepka           | Poznan University of Technology
+Tian Ye                 | Tsinghua University
+Gati Aher               | Olin College of Engineering
+Chris Ki                | University of California, Berkeley
+Ojash Neopane           | University of California, San Diego
+Ananye Agarwal          | Indian Institute of Technology Delhi
+Aravind Venugopal | Birla Institute of Technology & Science, Pilani (Goa)
+Lawrence Keunho Jang | Carnegie Mellon University
+Kanad Pardeshi | Indian Institute of Technology Bombay
+Deying Song | Peking University
+Utkarsh Priyam | Purdue University
+Emily Byun | Brown University
+Qiuhong Anna Wei | Brown University
+Abi Kothapalli | Vanderbilt University
+Wenbin Zhou | University of Science and Technology of China
+Aakash Lahoti | Indian Institute of Technology Kanpur
+Souraja Kundu | Indian Institute of Technology Guwahati
+Grace Liu | Princeton University
+Ifigeneia Apostolopoulou | University of Thessaly
+Jeremy Tien | University of California, Berkeley
+Anna Bair | Massachusetts Institute of Technology
+Youngseog Chung | The Hong Kong University of Science and Technology
+Benjamin Chugg  | University of British Columbia
+Santiago Cortés | Universidad de Los Andes
+Dylan Sam       | Brown University
+Oscar Li        | Duke University
+Tomas Gonzalez Lara | Pontificia Universidad Católica de Chile
+Tom Yan | Massachusetts Institute of Technology
+Kelly He | University of Rochester
+Don Dennis | Indian Institute of Technology Patna
+Maitreyi Swaroop | Indian Institute of Technology Kharagpur
+Christina Baek | University of California, Berkeley
+Yuxin Guo | Carnegie Mellon University
+Niki Hasrati | University of Waterloo
+Nari Johnson | Harvard University
+Saumya Goyal | Indian Institute of Technology Bombay
+Ian Wu | University of Cambridge
+Samuel Sokota | Swarthmore College
+Karish Grover | Indraprastha Institute of Information Technology Delhi
+Rattana Pukdee | University of Oxford
+Jennifer Hsia | Princeton University
+Lili Chen | University of California, Berkeley
+Che-Ping Tsai | National Taiwan University
+Yuchen Li | University of Illinois at Urbana-Champaign
+Shanda Li | Peking University
+Stephanie Milani | University of Maryland, Baltimore County
+
+
+
+LTI
+Pranjal Aggarwal | Indian Institute of Technology Delhi
+Syeda Akter | Bangladesh University of Engineering and Technology
+Fatima Al-Raisi | Sultan Qaboos University
+Siddhant Arora | Indian Institute of Technology Delhi
+Massa Baali | American University of Beirut
+Amanda Bertsch | University of Arizona
+Shikhar Bharadwaj | Birla Institute of Technology and Science, Hyderabad
+Shaily Jagat Bhatt | Birla Institute of Technology and Science, Pilani
+Brendon Boldt | Marist College
+Luis Borges | Instituto Superior Técnico, University of Lisbon
+Luke Breitfeller | Carnegie Mellon University
+Yingshan Chang | Hong Kong University of Science and Technology
+Li-Wei Chen | National Taiwan University
+Sang Keun Choe | Seoul National University
+Daniel Clothiaux | Pennsylvania State University
+Joao Coelho | Instituto Superior Técnico, University of Lisbon
+Carla de Oliveira Viegas | NOVA University Lisbon (Faculty of Science and Technology)
+Mingkai Deng | Columbia University
+Athiya Deviyani | University of Edinburgh
+Hira Dhamyal | Lahore University of Management Sciences
+Harshita Diddee | Guru Gobind Singh Indraprastha University
+Weihua Du | Tsinghua University
+Ritam Dutt | Indian Institute of Technology Kharagpur
+Zhen Fan | Tsinghua University
+Shengyu Feng | University of Michigan
+Patrick Fernandes | Instituto Superior Técnico, University of Lisbon
+Jared Fernandez | Northwestern University
+Luyu Gao | University of Illinois at Urbana-Champaign
+Alfredo Gomez | Harvey Mudd College
+Liangke Gui | Shandong University
+Sireesh Gururaja | Indian Institute of Technology Kharagpur
+Karina Halevy | Harvard University
+Kimihiro Hasegawa | Kobe University
+Andre He | University of California, Berkeley
+Jessica Huynh | Brandeis University
+Zhengbao Jiang | Renmin University of China
+Cathy Jiao | University of British Columbia
+Anjali Kantharuban | University of California, Berkeley
+Gaoussou Kebe | Bursa Technical University
+Simran Khanuja | BITS Pilani (Goa Campus)
+Seungone Kim | Yonsei University
+To Eun Kim | University College London
+Steven Kolawole | Federal University of Agriculture Abeokuta
+Kundan Krishna | Indian Institute of Technology Kanpur
+Bohan Li | Zhejiang University
+Andy Liu | Harvey Mudd College
+Emmy Liu | University of Toronto
+Jingzhou Liu | University of Toronto
+Zhengzhong (Hector) Liu | The Hong Kong Polytechnic University
+Zhun Liu | Wuhan University
+Qianli (Martin) Ma | Brandeis University
+Leena Mathur | University of Southern California
+Jeremiah Milbauer | University of Chicago
+Gabriel Moreira | Instituto Superior Técnico (University of Lisbon)
+Ji Min Mun | University of California, San Diego
+Clara Na | University of Virginia
+Armineh Nourbakhsh | University of Texas at Austin
+Siqi Ouyang | Tsinghua University
+Chan Young Park | Yonsei University
+Adithya Pratapa | Indian Institute of Technology Bombay
+Yijun Qian | Southwest Jiaotong University
+Abhilasha Ravichander | PES Institute of Technology
+Karen Rosero | University of Texas at Dallas
+James Route | Unknown
+Sreecharan Sankaranarayanan | National Institute of Technology Karnataka, Surathkal
+Ankit Parag Shah | National Institute of Technology Karnataka, Surathkal
+Muhammad Shah | Carnegie Mellon University (Qatar Campus)
+Jiatong Shi | Renmin University of China
+Zhenqiao “Zoey” Song | Xiamen University
+Nishant Subramani | Northwestern University
+Weiwei Sun | Shandong University
+Zhiqing Sun | Peking University
+Lintang Sutawika | Universitas Indonesia
+Bowen Tan | Shanghai Jiao Tong University
+Jinchuan Tian | University of Electronic Science and Technology of China
+Lindia Tjuatja | University of Texas at Austin
+Saujas Vaduguru | International Institute of Information Technology Hyderabad
+Vijay Viswanathan | Carnegie Mellon University
+Danqing Wang | Fudan University
+Zhiruo Wang | Beijing Normal University
+Haoyang Wen | Harbin Institute of Technology
+Alex Wilf | University of Michigan
+Daegun Won | Carnegie Mellon University
+Yiqing Xie | Hong Kong University of Science and Technology
+Fangzheng Xu | Shanghai Jiao Tong University
+Kashu Yamazaki | University of Arkansas
+Brian Yan | University of Chicago
+Daniel Chechelnitsky | Macalester College
+André Duarte | Instituto Superior Técnico, University of Lisbon
+
+
+RI 
+Montiel Abello | Purdue University
+Anoushka Alavilli | Tufts University
+Giridharan Anantharaman | Undergrad institution not found
+Mike Anoruo | University of Maryland, Baltimore County (UMBC)
+Benjamin Attal | Brown University
+Ananya Bal | Vellore Institute of Technology (VIT)
+Zhipeng Bao | Tsinghua University
+Cornelia Bauer | Karlsruhe Institute of Technology (KIT)
+Guadalupe Bernal | Cornell University
+Anoop Bhat | Undergrad institution not found
+Arun Bishop | University of Michigan
+Abena Boadi-Agyemang | Stanford University
+Abigail Breitfeld | Princeton University
+Matthew Bronars | University of California, Berkeley
+Arthur Fender Coelho Bucker | University of São Paulo
+Patrick Callaghan | University of Virginia
+Chao Cao | The University of Hong Kong (HKU)
+Jinkun Cao | Shanghai Jiao Tong University
+Nicole Chan | Massachusetts Institute of Technology (MIT)
+Angela Chen | University of Illinois at Urbana-Champaign (UIUC)
+Sally Chen | University of Toronto
+Hongyi Chen | Tsinghua University
+Rui Chen | University of Michigan, Ann Arbor
+Hsu-kuang Chiu | National Taiwan University
+Rohan Choudhury | California Institute of Technology (Caltech)
+Wen-Hsuan Chu | National Taiwan University
+Maggie Collier | University of Alabama at Birmingham (UAB)
+Mosam Dabhi | Sardar Vallabhbhai National Institute of Technology, Surat (SVNIT)
+Kangle Deng | Peking University
+Bardienus Duisterhof | Delft University of Technology
+Emma Erickson | University of Illinois at Urbana-Champaign (UIUC)
+Benjamin Freed | Massachusetts Institute of Technology
+Harry Freeman | Cornell University
+Diana Frias Franco | California Institute of Technology
+Ruihan Gao | Nanyang Technological University
+Gautam Rajendrakumar Gare | BMS College of Engineering
+Anurag Ghosh | International Institute of Information Technology, Hyderabad
+Nikolaos Gkanatsios | National Technical University of Athens
+Xiaofeng Guo | Tsinghua University
+Pranay Gupta | International Institute of Information Technology, Hyderabad
+Tejus Gupta | Indian Institute of Technology Kharagpur
+Dominic Guri | Tufts University
+Swaminathan Gurumurthy | Indian Institute of Technology (BHU) Varanasi
+Margaret Hansen | Georgetown University
+Rayna Hata | Colby College
+Tairan He | Shanghai Jiao Tong University
+Iqui Balam Heredia Marin | Tecnológico de Monterrey
+Yuichi Hirose | Keio University
+Hanzhe Hu | Nanjing University
+Zheyuan Hu | University of California, Berkeley
+Joe Huang | Massachusetts Institute of Technology
+Philip Huang | University of Toronto
+Shun Iwase | Tokyo Institute of Technology
+Ayush Jain | Birla Institute of Technology and Science, Pilani
+Tushaar Jain | unknown
+Vidhi Jain | Birla Institute of Technology and Science, Pilani
+Andrew Jong | San José State University
+Zulekha Karachiwalla | University of Maryland Baltimore County
+Jay Karhade | Birla Institute of Technology and Science, Pilani – Hyderabad Campus
+Nikhil Keetha | Indian Institute of Technology (ISM) Dhanbad
+Prasanna Kettavarapalyam Sriganesh | PES University
+Tarasha Khurana | Netaji Subhas Institute of Technology
+John Kim | Hong Kong University of Science and Technology
+Emily Kim | Harvey Mudd College
+Seungchan Kim | Brown University
+Jonathan King | University of California, Berkeley
+Nupur Kumari | Indian Institute of Technology Delhi
+Jeong Hun Lee | Georgia Institute of Technology
+Mark Lee | Cornell University
+Amber Li | Massachusetts Institute of Technology
+Bowen Li | Tongji University
+Xinyu Li | Shanghai Jiao Tong University
+Zhiqiu Lin | Cornell University
+Yehonathan Litman | Stony Brook University
+Jason Liu | University of Toronto
+Wayne Liu | Carnegie Mellon University
+Simin Liu | University of California, Berkeley
+Zhixuan Liu | The Chinese University of Hong Kong, Shenzhen
+Jiachen Lu | University of Michigan–Shanghai Jiao Tong University Joint Institute
+Parv Maheshwari | Indian Institute of Technology Kharagpur
+Steven Man | University of California, Santa Barbara
+Yuemin Mao | Carnegie Mellon University
+Rebecca Martin | Arizona State University
+Daniel McGann | Northeastern University
+Itamar Mishani | Tel Aviv University
+Vihaan Misra | Netaji Subhas University of Technology
+Himangi Mittal | Jaypee Institute of Information Technology
+Cecilia Morales | unknown
+Mohammadreza Mousaei | Shahid Beheshti University
+Kensuke Nakamura | Princeton University
+Junyu (Jenny) Nan | Carnegie Mellon University
+Ingrid Navarro | Tecnológico de Monterrey
+David Neiman | unknown
+Huy Quyen Ngo | unknown
+Sriram Narayanan | unknown
+Chase Noren | Texas A&M University
+Gabrielle Ohlson | Pomona College
+Pablo Ortega Kral | Tecnológico de Monterrey
+Akhil Padmanabha | University of California, Berkeley
+Ravi Pandya | University of California, Berkeley
+Jinhyung Park | Carnegie Mellon University
+Gaurav Parmar | University of California, San Diego
+Sarvesh Patil | VES Institute of Technology
+Neehar Peri | University of Maryland, College Park
+Easton Potokar | Brigham Young University
+Willa Potosnak | Duquesne University
+Mihir Prabhudesai | BITS Pilani Dubai Campus
+Kavya Puthuveetil | Virginia Commonwealth University
+Mohamad Qadri | University of Maryland, College Park
+Ananya Rao | Carnegie Mellon University
+Paulo Rotband Marchtein Fisch | University of São Paulo
+Arpita Routray | IIEST Shibpur
+Muhammad Suhail Saleem | Unknown
+Navyata Nilesh Sanghvi | Indian Institute of Technology Madras
+Saumya Saxena | Indian Institute of Technology Kanpur
+Peter Schaldenbrand | University of Pittsburgh
+Ryan Schuerkamp | Miami University (Oxford, OH)
+Muhammet Yunus Seker | Boğaziçi University
+Junwon Seo | Seoul National University
+Yorai Shaoul | Massachusetts Institute of Technology
+Akash Sharma | Sri Jayachamarajendra College of Engineering
+Ken Shaw | Georgia Institute of Technology
+Vivian Shen | Unknown
+Yuyao Shi | Unknown
+Kate Shih | University of Notre Dame
+Zilin Si | ShanghaiTech University
+Shashwat Singh | University at Buffalo (SUNY)
+Samantha Speer | Vanderbilt University
+Yifan Sun | Xi’an Jiaotong University
+Krishna Suresh | Franklin W. Olin College of Engineering
+Gokul Swamy | University of California, Berkeley
+Samuel Triest | University of Rochester
+Rishi Veerapaneni | University of California, Berkeley
+Fausto Vega | University of Nevada, Las Vegas
+Mrinal Verghese | University of California, San Diego
+Khiem Vuong | University of Minnesota
+Andrew Wang | University of California, Berkeley
+Jenny Wang | (not yet public)
+Jianren Wang | Shanghai Jiao Tong University
+Jiashun Wang | Fudan University
+Jim Wang | Johns Hopkins University
+Sheng-Yu Wang | University of California, Berkeley
+Sunyu Wang | University of Illinois at Urbana-Champaign
+Oliver Wang | University of Waterloo
+Yufei Wang | Peking University
+Erica Weng | Massachusetts Institute of Technology
+Jacob Willis | Brigham Young University
+Chen Wu | Tsinghua University
+Yilin Wu | Shanghai Jiao Tong University
+Quanting Xie | Rensselaer Polytechnic Institute
+Eliot Xing | Georgia Institute of Technology
+Albert Xu | Purdue University
+Jianjin Xu | Tsinghua University
+Jingtian Yan | Zhejiang University
+Brian Yang | University of California, Berkeley
+Uksang Yoo | University of Texas at Austin
+Ying Yuan | Tsinghua University
+Renos Zabounidis | University of Massachusetts Amherst
+Tianyi Zhang | Tianjin University
+Yulun Zhang | University of Southern California
+John Zhang | Georgia Institute of Technology
+Michelle Zhao | California Institute of Technology
+Shibo Zhao | Northeastern University (China)
+Shen Zheng | Wenzhou-Kean University
+Gavin Zhu | Carnegie Mellon University
+
+
+
+
+prompt
+The following is a list of current CMU CS PhDs; find where they attended undergrad. Each line in the output should be in the format of "{name} | {school}". Avoid citations so that I can easily copy and paste later. Make sure to find everyone's undergrad unless it's impossible. If unknown, say unknown as the school.
+
+=== CSD ===
+                                        Inst_canon  Student Count
+                        Carnegie Mellon University             11
+                               Tsinghua University             10
+                                Harvard University              6
+                     Shanghai Jiao Tong University              6
+                University of California, Berkeley              6
+                                Cornell University              5
+             Massachusetts Institute of Technology              5
+                                 Peking University              4
+                            University of Michigan              4
+                California Institute of Technology              3
+                        Instituto Superior Técnico              3
+           National Technical University of Athens              3
+                                Rutgers University              3
+                               Stanford University              3
+                          University of Washington              3
+                                 Dartmouth College              2
+                   Georgia Institute of Technology              2
+Korea Advanced Institute of Science and Technology              2
+                           Northwestern University              2
+                                    PES University              2
+                     Pennsylvania State University              2
+                         Seoul National University              2
+             University of California, Los Angeles              2
+               University of California, San Diego              2
+        University of Illinois at Urbana-Champaign              2
+                          University of Notre Dame              2
+                              University of Oxford              2
+                 University of Southern California              2
+                               Zhejiang University              2
+                               Boğaziçi University              1
+                          Brigham Young University              1
+                       California State University              1
+                   Chinese University of Hong Kong              1
+                               Columbia University              1
+                   Dalian University of Technology              1
+                                   Duke University              1
+              Federal University of Rio de Janeiro              1
+                               Harvey Mudd College              1
+           Indian Institute of Technology Guwahati              1
+             Indian Institute of Technology Kanpur              1
+          Indian Institute of Technology Kharagpur              1
+             Indian Institute of Technology Madras              1
+    National and Kapodistrian University of Athens              1
+                           Northeastern University              1
+                                    Pomona College              1
+                                 Purdue University              1
+                        Renmin University of China              1
+                                   Rice University              1
+               South China Agricultural University              1
+                            Sun Yat-sen University              1
+                 Technical University of Darmstadt              1
+                The Hebrew University of Jerusalem              1
+                    United States Military Academy              1
+                            University of Brasília              1
+           University of California, Santa Barbara              1
+                               University of Chile              1
+                               University of Delhi              1
+                              University of Ilorin              1
+                              University of Kansas              1
+                              University of Lisbon              1
+                            University of Maryland              1
+       University of North Carolina at Chapel Hill              1
+                            University of Portland              1
+     University of Science and Technology of China              1
+                              University of Sydney              1
+                     University of Texas at Austin              1
+                             University of Toronto              1
+                            University of Waterloo              1
+                   Worcester Polytechnic Institute              1
+                                  Wuhan University              1
+                       Youngstown State University              1
+
+=== LTI ===
+                                                 Inst_canon  Student Count
+                                 Instituto Superior Técnico              5
+                                 Carnegie Mellon University              4
+                  Birla Institute of Technology and Science              3
+                                        Tsinghua University              3
+                                        Brandeis University              2
+                                        Harvey Mudd College              2
+             Hong Kong University of Science and Technology              2
+                       Indian Institute of Technology Delhi              2
+                   Indian Institute of Technology Kharagpur              2
+                 National Institute of Technology Karnataka              2
+                                    Northwestern University              2
+                                 Renmin University of China              2
+                                        Shandong University              2
+                              Shanghai Jiao Tong University              2
+                         University of California, Berkeley              2
+                                      University of Chicago              2
+                                     University of Michigan              2
+                              University of Texas at Austin              2
+                                      University of Toronto              2
+                                          Yonsei University              2
+                              American University of Beirut              1
+        Bangladesh University of Engineering and Technology              1
+                                  Beijing Normal University              1
+                                 Bursa Technical University              1
+                                        Columbia University              1
+                 Federal University of Agriculture Abeokuta              1
+                                           Fudan University              1
+                  Guru Gobind Singh Indraprastha University              1
+                             Harbin Institute of Technology              1
+                                         Harvard University              1
+                      Indian Institute of Technology Bombay              1
+                      Indian Institute of Technology Kanpur              1
+International Institute of Information Technology Hyderabad              1
+                                            Kobe University              1
+                   Lahore University of Management Sciences              1
+                                         Macalester College              1
+                                             Marist College              1
+                                     NOVA University Lisbon              1
+                                 National Taiwan University              1
+                                PES Institute of Technology              1
+                                          Peking University              1
+                              Pennsylvania State University              1
+                                  Seoul National University              1
+                              Southwest Jiaotong University              1
+                                   Sultan Qaboos University              1
+                       The Hong Kong Polytechnic University              1
+                                      Universitas Indonesia              1
+                                  University College London              1
+                                      University of Arizona              1
+                                     University of Arkansas              1
+                             University of British Columbia              1
+                        University of California, San Diego              1
+                                    University of Edinburgh              1
+   University of Electronic Science and Technology of China              1
+                 University of Illinois at Urbana-Champaign              1
+                          University of Southern California              1
+                              University of Texas at Dallas              1
+                                     University of Virginia              1
+                                           Wuhan University              1
+                                          Xiamen University              1
+                                        Zhejiang University              1
+
+=== ML ===
+                                              Inst_canon  Student Count
+                      University of California, Berkeley              8
+                                     Tsinghua University              6
+                   Massachusetts Institute of Technology              5
+              University of Illinois at Urbana-Champaign              5
+                                        Brown University              3
+                              Carnegie Mellon University              3
+                   Indian Institute of Technology Bombay              3
+                    Indian Institute of Technology Delhi              3
+                                       Peking University              3
+                         Georgia Institute of Technology              2
+                                      Harvard University              2
+                Indian Institute of Technology Kharagpur              2
+                                    Princeton University              2
+                                     Stanford University              2
+                                      Swarthmore College              2
+                          University of British Columbia              2
+                     University of California, San Diego              2
+University of Electronic Science and Technology of China              2
+                                 University of Rochester              2
+                         University of Wisconsin-Madison              2
+                                   Vanderbilt University              2
+                                      Bilkent University              1
+                           Birla Institute of Technology              1
+                                        Carleton College              1
+                                     Columbia University              1
+                                       Dickinson College              1
+                                         Duke University              1
+              Hanoi University of Science and Technology              1
+                 Indian Institute of Technology Guwahati              1
+                   Indian Institute of Technology Kanpur              1
+                    Indian Institute of Technology Patna              1
+                  Indian Institute of Technology Roorkee              1
+        Indraprastha Institute of Information Technology              1
+  Indraprastha Institute of Information Technology Delhi              1
+                              Instituto Superior Técnico              1
+                                Johns Hopkins University              1
+              Moscow Institute of Physics and Technology              1
+                                 Nara Women’s University              1
+                              National Taiwan University              1
+                National Yang Ming Chiao Tung University              1
+                                     New York University              1
+                             Olin College of Engineering              1
+                           Pennsylvania State University              1
+                Pontificia Universidad Católica de Chile              1
+                         Poznan University of Technology              1
+                                       Purdue University              1
+                               Seoul National University              1
+                         Sharif University of Technology              1
+           Singapore University of Technology and Design              1
+                                  Sun Yat-sen University              1
+      The Hong Kong University of Science and Technology              1
+                                Universidad de Los Andes              1
+                               University College Dublin              1
+                                   University of Arizona              1
+                   University of California, Los Angeles              1
+                                 University of Cambridge              1
+                                   University of Chicago              1
+      University of International Business and Economics              1
+                University of Maryland, Baltimore County              1
+                    University of Maryland, College Park              1
+                                    University of Oxford              1
+                              University of Pennsylvania              1
+           University of Science and Technology of China              1
+                                  University of Thessaly              1
+                                  University of Waterloo              1
+                               Xi’an Jiaotong University              1
+                                         Yale University              1
+                                       Yonsei University              1
+
+=== RI ===
+                                                          Inst_canon  Student Count
+                                  University of California, Berkeley             11
+                                          Carnegie Mellon University              6
+                               Massachusetts Institute of Technology              6
+                                                 Tsinghua University              6
+                                       Shanghai Jiao Tong University              5
+                                                  Cornell University              4
+                                     Georgia Institute of Technology              4
+                                  California Institute of Technology              3
+                                            Tecnológico de Monterrey              3
+                          University of Illinois at Urbana-Champaign              3
+                                               University of Toronto              3
+                           Birla Institute of Technology and Science              2
+                                            Brigham Young University              2
+                                                    Brown University              2
+                            Indian Institute of Technology Kharagpur              2
+                   International Institute of Information Technology              2
+                                          National Taiwan University              2
+                                             Northeastern University              2
+                                                   Peking University              2
+                                                Princeton University              2
+                                                   Purdue University              2
+                                                    Tufts University              2
+                                 University of California, San Diego              2
+                            University of Maryland, Baltimore County              2
+                                University of Maryland, College Park              2
+                                              University of Michigan              2
+                                             University of São Paulo              2
+                                            Arizona State University              1
+                                          BMS College of Engineering              1
+              Birla Institute of Technology and Science Dubai Campus              1
+Birla Institute of Technology and Science, Pilani - Hyderabad Campus              1
+                                                 Boğaziçi University              1
+                                                       Colby College              1
+                                      Delft University of Technology              1
+                                                 Duquesne University              1
+                             Franklin W. Olin College of Engineering              1
+                                                    Fudan University              1
+                                               Georgetown University              1
+                                                 Harvey Mudd College              1
+                      Hong Kong University of Science and Technology              1
+                                                       IIEST Shibpur              1
+                                Indian Institute of Technology Delhi              1
+                              Indian Institute of Technology Dhanbad              1
+                               Indian Institute of Technology Kanpur              1
+                               Indian Institute of Technology Madras              1
+                             Indian Institute of Technology Varanasi              1
+                          Jaypee Institute of Information Technology              1
+                                            Johns Hopkins University              1
+                                   Karlsruhe Institute of Technology              1
+                                                     Keio University              1
+                                                    Miami University              1
+                                                  Nanjing University              1
+                                    Nanyang Technological University              1
+                             National Technical University of Athens              1
+                               Netaji Subhas Institute of Technology              1
+                              Netaji Subhas University of Technology              1
+                                                      PES University              1
+                                                      Pomona College              1
+                                    Rensselaer Polytechnic Institute              1
+                                           San José State University              1
+                 Sardar Vallabhbhai National Institute of Technology              1
+                                           Seoul National University              1
+                                          Shahid Beheshti University              1
+                                             ShanghaiTech University              1
+                        Sri Jayachamarajendra College of Engineering              1
+                                                 Stanford University              1
+                                              Stony Brook University              1
+                                                 Tel Aviv University              1
+                                                             Texas A              1
+                                 The Chinese University of Hong Kong              1
+                                         The University of Hong Kong              1
+                                                  Tianjin University              1
+                                       Tokyo Institute of Technology              1
+                                                   Tongji University              1
+                                               University at Buffalo              1
+                                 University of Alabama at Birmingham              1
+                             University of California, Santa Barbara              1
+                                 University of Massachusetts Amherst              1
+University of Michigan-Shanghai Jiao Tong University Joint Institute              1
+                                             University of Minnesota              1
+                                                University of Nevada              1
+                                            University of Notre Dame              1
+                                            University of Pittsburgh              1
+                                             University of Rochester              1
+                                   University of Southern California              1
+                                       University of Texas at Austin              1
+                                              University of Virginia              1
+                                              University of Waterloo              1
+                                         VES Institute of Technology              1
+                                               Vanderbilt University              1
+                                     Vellore Institute of Technology              1
+                                    Virginia Commonwealth University              1
+                                             Wenzhou-Kean University              1
+                                           Xi’an Jiaotong University              1
+                                                 Zhejiang University              1
+
+=== ALL DEPARTMENTS ===
+                                                          Inst_canon  Student Count
+                                  University of California, Berkeley             27
+                                                 Tsinghua University             25
+                                          Carnegie Mellon University             24
+                               Massachusetts Institute of Technology             16
+                                       Shanghai Jiao Tong University             13
+                          University of Illinois at Urbana-Champaign             11
+                                                   Peking University             10
+                                                  Cornell University              9
+                                                  Harvard University              9
+                                          Instituto Superior Técnico              9
+                                     Georgia Institute of Technology              8
+                                              University of Michigan              8
+                            Indian Institute of Technology Kharagpur              7
+                                 University of California, San Diego              7
+                                  California Institute of Technology              6
+                                Indian Institute of Technology Delhi              6
+                                                 Stanford University              6
+                                               University of Toronto              6
+                           Birla Institute of Technology and Science              5
+                                                    Brown University              5
+                                           Seoul National University              5
+                                                 Harvey Mudd College              4
+                               Indian Institute of Technology Bombay              4
+                               Indian Institute of Technology Kanpur              4
+                                          National Taiwan University              4
+                             National Technical University of Athens              4
+                                             Northwestern University              4
+                                       Pennsylvania State University              4
+                                                Princeton University              4
+                                                   Purdue University              4
+                                   University of Southern California              4
+                                       University of Texas at Austin              4
+                                                 Zhejiang University              4
+                                            Brigham Young University              3
+                                                 Columbia University              3
+                      Hong Kong University of Science and Technology              3
+                                             Northeastern University              3
+                                                      PES University              3
+                                          Renmin University of China              3
+                                                  Rutgers University              3
+                                            Tecnológico de Monterrey              3
+                                      University of British Columbia              3
+                               University of California, Los Angeles              3
+                                               University of Chicago              3
+            University of Electronic Science and Technology of China              3
+                            University of Maryland, Baltimore County              3
+                                University of Maryland, College Park              3
+                                            University of Notre Dame              3
+                                                University of Oxford              3
+                                             University of Rochester              3
+                                            University of Washington              3
+                                              University of Waterloo              3
+                                               Vanderbilt University              3
+                                                   Yonsei University              3
+                                                 Boğaziçi University              2
+                                                 Brandeis University              2
+                                                   Dartmouth College              2
+                                                     Duke University              2
+                                                    Fudan University              2
+                             Indian Institute of Technology Guwahati              2
+                               Indian Institute of Technology Madras              2
+                   International Institute of Information Technology              2
+                                            Johns Hopkins University              2
+                  Korea Advanced Institute of Science and Technology              2
+                          National Institute of Technology Karnataka              2
+                                                      Pomona College              2
+                                                 Shandong University              2
+                                              Sun Yat-sen University              2
+                                                  Swarthmore College              2
+                                                    Tufts University              2
+                                               University of Arizona              2
+                             University of California, Santa Barbara              2
+                       University of Science and Technology of China              2
+                                             University of São Paulo              2
+                                              University of Virginia              2
+                                     University of Wisconsin-Madison              2
+                                                    Wuhan University              2
+                                           Xi’an Jiaotong University              2
+                                       American University of Beirut              1
+                                            Arizona State University              1
+                                          BMS College of Engineering              1
+                 Bangladesh University of Engineering and Technology              1
+                                           Beijing Normal University              1
+                                                  Bilkent University              1
+                                       Birla Institute of Technology              1
+              Birla Institute of Technology and Science Dubai Campus              1
+Birla Institute of Technology and Science, Pilani - Hyderabad Campus              1
+                                          Bursa Technical University              1
+                                         California State University              1
+                                                    Carleton College              1
+                                     Chinese University of Hong Kong              1
+                                                       Colby College              1
+                                     Dalian University of Technology              1
+                                      Delft University of Technology              1
+                                                   Dickinson College              1
+                                                 Duquesne University              1
+                          Federal University of Agriculture Abeokuta              1
+                                Federal University of Rio de Janeiro              1
+                             Franklin W. Olin College of Engineering              1
+                                               Georgetown University              1
+                           Guru Gobind Singh Indraprastha University              1
+                          Hanoi University of Science and Technology              1
+                                      Harbin Institute of Technology              1
+                                                       IIEST Shibpur              1
+                              Indian Institute of Technology Dhanbad              1
+                                Indian Institute of Technology Patna              1
+                              Indian Institute of Technology Roorkee              1
+                             Indian Institute of Technology Varanasi              1
+                    Indraprastha Institute of Information Technology              1
+              Indraprastha Institute of Information Technology Delhi              1
+         International Institute of Information Technology Hyderabad              1
+                          Jaypee Institute of Information Technology              1
+                                   Karlsruhe Institute of Technology              1
+                                                     Keio University              1
+                                                     Kobe University              1
+                            Lahore University of Management Sciences              1
+                                                  Macalester College              1
+                                                      Marist College              1
+                                                    Miami University              1
+                          Moscow Institute of Physics and Technology              1
+                                              NOVA University Lisbon              1
+                                                  Nanjing University              1
+                                    Nanyang Technological University              1
+                                             Nara Women’s University              1
+                            National Yang Ming Chiao Tung University              1
+                      National and Kapodistrian University of Athens              1
+                               Netaji Subhas Institute of Technology              1
+                              Netaji Subhas University of Technology              1
+                                                 New York University              1
+                                         Olin College of Engineering              1
+                                         PES Institute of Technology              1
+                            Pontificia Universidad Católica de Chile              1
+                                     Poznan University of Technology              1
+                                    Rensselaer Polytechnic Institute              1
+                                                     Rice University              1
+                                           San José State University              1
+                 Sardar Vallabhbhai National Institute of Technology              1
+                                          Shahid Beheshti University              1
+                                             ShanghaiTech University              1
+                                     Sharif University of Technology              1
+                       Singapore University of Technology and Design              1
+                                 South China Agricultural University              1
+                                       Southwest Jiaotong University              1
+                        Sri Jayachamarajendra College of Engineering              1
+                                              Stony Brook University              1
+                                            Sultan Qaboos University              1
+                                   Technical University of Darmstadt              1
+                                                 Tel Aviv University              1
+                                                             Texas A              1
+                                 The Chinese University of Hong Kong              1
+                                  The Hebrew University of Jerusalem              1
+                                The Hong Kong Polytechnic University              1
+                  The Hong Kong University of Science and Technology              1
+                                         The University of Hong Kong              1
+                                                  Tianjin University              1
+                                       Tokyo Institute of Technology              1
+                                                   Tongji University              1
+                                      United States Military Academy              1
+                                            Universidad de Los Andes              1
+                                               Universitas Indonesia              1
+                                           University College Dublin              1
+                                           University College London              1
+                                               University at Buffalo              1
+                                 University of Alabama at Birmingham              1
+                                              University of Arkansas              1
+                                              University of Brasília              1
+                                             University of Cambridge              1
+                                                 University of Chile              1
+                                                 University of Delhi              1
+                                             University of Edinburgh              1
+                                                University of Ilorin              1
+                  University of International Business and Economics              1
+                                                University of Kansas              1
+                                                University of Lisbon              1
+                                              University of Maryland              1
+                                 University of Massachusetts Amherst              1
+University of Michigan-Shanghai Jiao Tong University Joint Institute              1
+                                             University of Minnesota              1
+                                                University of Nevada              1
+                         University of North Carolina at Chapel Hill              1
+                                          University of Pennsylvania              1
+                                            University of Pittsburgh              1
+                                              University of Portland              1
+                                                University of Sydney              1
+                                       University of Texas at Dallas              1
+                                              University of Thessaly              1
+                                         VES Institute of Technology              1
+                                     Vellore Institute of Technology              1
+                                    Virginia Commonwealth University              1
+                                             Wenzhou-Kean University              1
+                                     Worcester Polytechnic Institute              1
+                                                   Xiamen University              1
+                                                     Yale University              1
+                                         Youngstown State University              1
