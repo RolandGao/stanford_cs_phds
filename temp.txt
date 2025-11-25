@@ -1,132 +1,154 @@
-Erfan Aasi
-Aditya Agarwal
-Kumail Alhamoud
-Jake Austin
-Xingjian Bai
-Aparna Balagopalan
-Ajay Brahmakshatriya
-Rohan Bosworth
-Robert Calef
-Stephen Casper
-Kartik Chandra
-Peter Baile Chen
-Wenqiang (Winston) Chen
-Ching Lam Choi
-Phillip Christoffersen
-Ching-Yao Chuang
-Mehul Damani
-Nitish Dashora
-Nauman Dawalatabad
-Neel Dey
-Mingyang Deng
-Jialin Ding
-Josh Engels
-Haoshu Fang
-Xiaolin Fang
-Margherita Firenze
-Maxwell Fishelson
-Alex Forsey-Smerek
-Amy Fox
-Siyu (Catherine) Gai
-Kristian Georgiev
-Courtney Golden
-Varun Gohil
-Samuel Gruetter
-Minghao Guo
-Sharut Gupta
-Lan Ha
-Seungwook Han
-Leila Hampton
-Andreas Haupt
-Almog Hilel
-Jungseok Hong
-Cedric Honnet
-Strahinja Janjusevic
-Hyewon Jeong
-Christina X Ji
-Qixuan Jin
-Neerav Karani
-Pantea Karimi
-Elijah Karvelis
-Byungchul Kim
-Jovana Kondic
-Nishanth Kumar
-Benjamin Lahner
-Antoine Leeman
-Alexander Lenail
-Chenning Li
-Shen Li
-Tianhong Li
-Junhong Lin
-Chunwei Liu
-Jiahui Liu
-Yang Liu
-Yingcheng Liu
-Ziqian Liu
-Geoffrey Litt
-Alston Lo
-Artem Lukoianov
-Yiyue Luo
-Pingchuan Ma
-Rachel Ma
-Markos Markakis
-Peter Mikhael
-Intae Moon
-Hussein Mozannar
-Luke Murray
-Ramya Muthukrishnan
-Arash Nasr-Esfahany
-Michail Ouroutzoglou
-Crystal Owens
-Andi Peng
-Maxine Perronni-Scharf
-Isha Puri
-Linlu Qiu
-Utkrash R
-Prerna Ravi
-Evelyne Ringoot
-Caleb Robelle
-Jillian Ross
-Shuvom Sadhuka
-Anna Sappington
-Bipsha Sen
-Harshay Shah
-Junxuan Shen
-Nithya Shikarpur
-Samuel Sledzieski
-Michael Sun
-Behrooz Tahmasebi
-Yosuke Tanigawa
-Yunsheng Tian
-Jianming Tong
-Megan Tjandrasuwita
-Lirui Wang
-Tsun-Hsuan Wang
-Yifei Wang
-Hallee Wong
-Dylan Wootton
-Zhaofeng Wu
-Ziniu Wu
-Yuxin Xiao
-Haike Xu
-Ge Yang
-Lei Yang
-Mingran Yang
-Yuheng Yang
-Yuzhe Yang
-Takatoshi Yoshida
-Christina Yu
-Geoffrey X Yu
-Seunghak Yu
-Charles Yuan
-Akib Zaman
-Christos Zarkos
-Xiao Sean Zhan
-Annan Zhang
-Sylvia Zhang
-Wei Zhang
-Yihao Zhang
-Cai Zhou
-Xiaochen Zhu
-Jiacheng Zhu
-Zijie Zhao
+Corinthia Aberle | University of Oxford
+Anup Agarwal | Indian Institute of Technology Guwahati
+Bhavya Kumar Agrawalla | Massachusetts Institute of Technology
+Victor Akinwande | University of Ilorin
+Ioannis Anagnostides | National Technical University of Athens
+Sam Arch | University of Sydney
+Daiyaan Arfeen | University of California, Berkeley
+Gaurav Arya | Massachusetts Institute of Technology
+Sanjith Athlur | PES University, Bengaluru
+Nirav Atre | University of Toronto
+Ratip Emin Berker | Harvard University
+Aviv Bick | The Hebrew University of Jerusalem
+Andrew Brady | unknown
+Jennifer Brana | University of Portland
+Irmak Bukey | Pomona College
+Alper Cakan | unknown
+André Cesar Costa | Universidade Nova de Lisboa (FCT NOVA)
+Dorian Chan | University of California, Berkeley
+Edward Chen | University of California, San Diego
+Shawn Chen | unknown
+Siyuan Chen | Peking University
+Zhibo Chen | University of California, San Diego
+Zhuoming Chen | Tsinghua University
+Xinhao Cheng | unknown
+Wayne Chi | University of Southern California
+Saransh Chopra | University of Delhi (Cluster Innovation Centre)
+Valerie Choung | Carnegie Mellon University
+Ethan Chu | Carnegie Mellon University
+Joshua Clune | Carnegie Mellon University
+Cayden Codel | Carnegie Mellon University
+Patrick Coppock | unknown
+Quang Dao | Columbia University
+Luiz Gustavo De Sa | University of Brasilia
+Qifei Dong | unknown
+Myra Dotzel | University of Kansas
+Thomas Draper | Brigham Young University
+Nicole Feng | California Institute of Technology
+Margarida Ferreira Farina | unknown
+Henry Fleischmann | University of Michigan
+Kiriaki Fragkia | unknown
+Hugo Sadok Freitas Siqueira S M Barreto | Federal University of Rio de Janeiro
+James Gallicchio | Carnegie Mellon University
+Apurva Gandhi | University of Southern California
+Zhengyang Geng | Sichuan University
+Souradip Ghosh | Northwestern University
+Nathan Glover | unknown
+Alexander Goldberg | Harvard University
+Rafael Goncalves | Instituto Superior Técnico
+Theo Gregersen | University of Washington
+Harrison Grodin | Carnegie Mellon University
+Joshua Grosso | California Institute of Technology
+Keerthana Gurushankar | unknown
+Olga Gutan | Lake Forest College
+William He | Duke University
+Yige Hong | unknown
+Bohan Hou | Shanghai Jiao Tong University
+Jun-Ting Hsieh | Stanford University
+Stephen Huan | unknown
+Jerry Huang | unknown
+Suhas Jayaram Subramanya | unknown
+Siddharth Jayashankar | unknown
+Kunming Jiang | unknown
+Hongyi Jin | unknown
+Aditi Kabra | unknown
+Sagar Kalasibail Seetharam | unknown
+Zak Kent | unknown
+Eungyeup Kim | unknown
+Hyoungjoo Kim | unknown
+Lingjing Kong | unknown
+Andrew Krapivin | unknown
+Kevin Kuo | unknown
+Vasileios Kypriotis | unknown
+Ruihang Lai | unknown
+Arjun Lakshmipathy | unknown
+Christos Laspias | unknown
+Seunghyun Lee | unknown
+Yiran Lei | unknown
+George Li | unknown
+Runming Li | unknown
+Tianqin Li | unknown
+Zhouzi Li | unknown
+Zikun Li | unknown
+Jingxun Liang | unknown
+Wan Shen Lim | unknown
+Guying Lin | unknown
+Honghao Lin | unknown
+Zhengyao Lin | unknown
+Jiayuan Liu | unknown
+Pengyu Liu | unknown
+Zoë Marschner | unknown
+Sara McAllister | unknown
+Colin McDonald | unknown
+Michael McLoughlin | unknown
+Bailey Miller | unknown
+Nj Mukherjee | unknown
+Hoai-An Nguyen | unknown
+Chase Norman | unknown
+Juli O'Connor | unknown
+Caspar Oesterheld | unknown
+Gabriele Oliaro | unknown
+Qi Pang | unknown
+Hojin Park | unknown
+Long Pham | unknown
+Adithya Abraham Philip | unknown
+Madhusudhan Pittu | unknown
+Siddharth Prasad | unknown
+Ava Pun | unknown
+Ziyue Qiu | unknown
+Joseph Reeves | unknown
+Sophia Roshal | unknown
+Nuno Sabino | unknown
+Sagnik Saha | unknown
+Yash Savani | unknown
+Matias Scharager | unknown
+Amar Shah | unknown
+Matan Shtepel | unknown
+Rose Silver | unknown
+Noah Singer | unknown
+Pratap Singh | unknown
+Max Sobol Mark | unknown
+Eliot Solomon | unknown
+Alicia Stepin | unknown
+Ben Stoler | unknown
+Tanli Su | unknown
+Bernardo Anibal Subercaseaux Roa | unknown
+Isabel Suizo | unknown
+Elanor Tang | unknown
+Arjun Teh | unknown
+Emanuel Tewolde | unknown
+Abitha Thankaraj | unknown
+Catalina Vajiac | unknown
+Saranya Vijayakumar | unknown
+Barry Wang | unknown
+Guy Wilks | unknown
+Joshua Williams | unknown
+Mengdi Wu | unknown
+Mingkuan Xu | unknown
+Jeff Xu | unknown
+Yixuan Xu | unknown
+Junzhao Yang | unknown
+Yue Yao | unknown
+Emre Yolcu | unknown
+Brian Zhang | unknown
+William Zhang | unknown
+Tesla Zhang | unknown
+Zhihao Zhang | unknown
+Kaiyang Zhao | unknown
+Juntian Zheng | unknown
+Peter Zhong | unknown
+Ziqian Zhong | unknown
+Mingxun Zhou | unknown
+Renfei Zhou | unknown
+Yonghao Zhuang | unknown
+Andy Zou | unknown

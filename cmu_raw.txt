@@ -715,4 +715,4 @@ Ao Li
 
 
 prompt
-The following is a list of current CMU CS PhDs; find where they attended undergrad. Each line in the output should be in the format of "{name} | {school}". Avoid citations so that I can easily copy and paste later. Make sure to find everyone's undergrad unless it's impossible. 
+The following is a list of current CMU CS PhDs; find where they attended undergrad. Each line in the output should be in the format of "{name} | {school}". Avoid citations so that I can easily copy and paste later. If the school is not found, say "unknown" as the school.

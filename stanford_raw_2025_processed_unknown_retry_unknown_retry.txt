@@ -1,0 +1,34 @@
+Andy Bartolo | Stanford University
+Ziwei Chen | unknown
+Tianlang Chen | Peking University
+Jared Davis | Washington University in St. Louis
+Boyang Deng | Beihang University
+Nate Diamant | Harvey Mudd College
+Perry Ang Dong | University of California, Berkeley
+Ben Driscoll | University of California, Berkeley
+Yue Gao | unknown
+Alireza Haqi | Sharif University of Technology
+
+Qiantan Hong | Massachusetts Institute of Technology
+Yunfan Jiang | University of Edinburgh
+Scott Kovach | unknown
+Evan Laufer | University of California, San Diego
+Tony Lee | unknown
+Yikai Li | unknown
+Kevin Li | unknown
+Matthew Liu | University of California, Berkeley
+Katherine Mohr | Massachusetts Institute of Technology
+Michael Poli | Nanjing University
+
+Diana Popescu | Georgia Institute of Technology
+Yicheng Qian | Peking University
+Muhammad Rahman | unknown
+Daniel Richman | Massachusetts Institute of Technology
+Yingxuan Tan | Rice University
+Sierra Wang | University of Washington
+Sally Wang | unknown
+Haoran Xu | Massachusetts Institute of Technology
+Koven Yu | unknown
+Tom Zelazny | The Hebrew University of Jerusalem
+
+Zihao Zhao | unknown

@@ -1,0 +1,112 @@
+School | Student Count
+- | -
+Stanford University | 47
+University of California, Berkeley | 32
+Massachusetts Institute of Technology | 26
+Carnegie Mellon University | 10
+Tsinghua University | 10
+Peking University | 8
+Cornell University | 8
+University of California, San Diego | 8
+Georgia Institute of Technology | 8
+Harvard University | 7
+University of Washington | 7
+University of California, Los Angeles | 5
+Princeton University | 5
+University of Toronto | 5
+University of Pennsylvania | 4
+Shanghai Jiao Tong University | 4
+Zhejiang University | 4
+University of Science and Technology of China | 4
+University of Chicago | 4
+University of Waterloo | 3
+Yale University | 3
+California Institute of Technology | 3
+Harvey Mudd College | 3
+University of Southern California | 3
+Birla Institute of Technology and Science | 3
+University of Illinois Urbana-Champaign | 3
+University of British Columbia | 3
+Brown University | 3
+Indian Institute of Technology Delhi | 3
+Northwestern University | 3
+University of North Carolina at Chapel Hill | 2
+Nanjing University | 2
+University of Texas at Austin | 2
+Indian Institute of Technology Kanpur | 2
+University of California, Santa Barbara | 2
+University of Edinburgh | 2
+Seoul National University | 2
+Duke University | 2
+Columbia University | 2
+University of Sydney | 2
+University of California, Davis | 2
+University of Wisconsin-Madison | 2
+University of Maryland, Baltimore County | 2
+University of California, Irvine | 1
+University of Tehran | 1
+Georgetown University | 1
+Singapore Management University | 1
+University of South Florida | 1
+Bowdoin College | 1
+Singapore University of Technology and Design | 1
+University of Delaware | 1
+Nanyang Technological University | 1
+Tongji University | 1
+University of Hong Kong | 1
+Pennsylvania State University | 1
+Washington University in St. Louis | 1
+Beihang University | 1
+Ecole Superieure d'Ingenierie en Sciences Appliquees | 1
+Pontificia Universidad Católica de Chile | 1
+Simon Fraser University | 1
+Bharati Vidyapeeth | 1
+Instituto Superior Técnico | 1
+Lahore University of Management Sciences | 1
+California Polytechnic State University | 1
+Sharif University of Technology | 1
+University of Cambridge | 1
+Johns Hopkins University | 1
+The Hong Kong University of Science and Technology | 1
+Queen's University | 1
+Copenhagen Business School | 1
+KAIST | 1
+Sogang University | 1
+Hanyang University | 1
+Kwame Nkrumah University of Science and Technology | 1
+Freie Universität Berlin | 1
+Pohang University of Science and Technology | 1
+Trinity College | 1
+Chalmers University of Technology | 1
+University of Iowa | 1
+Middlebury College | 1
+National Institute of Technology | 1
+Vietnam National University - Ho Chi Minh City University of Science | 1
+Claude Bernard University Lyon 1 | 1
+La Salle Campus Barcelona | 1
+International Institute of Information Technology | 1
+University of Tennessee | 1
+University of Hagen | 1
+Virginia Tech | 1
+Haverford College | 1
+University of São Paulo | 1
+University of Maryland | 1
+Northeastern University | 1
+Wellesley College | 1
+Rice University | 1
+Ecole Polytechnique Federale de Lausanne | 1
+University of Utah | 1
+DePauw University | 1
+Ben-Gurion University of the Negev | 1
+R V College of Engineering | 1
+University of Manchester | 1
+McGill University | 1
+University of Alabama at Birmingham | 1
+Central University of Finance and Economics | 1
+Case Western Reserve University | 1
+ShanghaiTech University | 1
+Sun Yat-sen University | 1
+Bogazici University | 1
+Hebrew University of Jerusalem | 1
+Soochow University | 1
+University of Michigan | 1
